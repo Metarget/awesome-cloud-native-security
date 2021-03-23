@@ -1,8 +1,10 @@
 # Awesome Cloud Native Security
 
+![](images/banner.png)
+
 This repository is used to collect **awesome** resources on the topic of cloud native security found during research.
 
-Hope to be helpful.
+Hope to be helpful :)
 
 ## 1 Offensive
 
@@ -25,15 +27,17 @@ Hope to be helpful.
 #### 1.3.1 General
 
 - [Abusing Privileged and Unprivileged Linux Containers](https://www.nccgroup.com/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
-- [Understanding and Hardening Linux Containers](https://research.nccgroup.com/wp-content/uploads/2020/07/ncc_group_understanding_hardening_linux_containers-1-1.pdf)
 - [里应外合：借容器root提权](https://wohin.me/li-ying-wai-he-jie-zhu-rong-qi-root/)
-- [容器环境相关的内核漏洞缓解技术](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488536&idx=1&sn=fd2fcb732e76b2243f972f7a79be2b19)
 - [针对容器的渗透测试方法](https://mp.weixin.qq.com/s?subscene=19&__biz=MzIyODYzNTU2OA==&mid=2247487590&idx=1&sn=060a8bdf2ddfaff6ceae5cb931cb27ab&chksm=e84fb6b9df383faf1723040a0d6f0300c9517db902ef0010e230d8e802b1dfe9d8b95e6aabbd)
+- [A Methodology for Penetration Testing Docker Systems](https://www.cs.ru.nl/bachelors-theses/2020/Joren_Vrancken___4593847___A_Methodology_for_Penetration_Testing_Docker_Systems.pdf)
+- [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups](http://www.cs.memphis.edu/~xgao1/paper/ccs19.pdf)
 
 #### 1.3.2 Container Escape
 
+- [容器环境相关的内核漏洞缓解技术](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488536&idx=1&sn=fd2fcb732e76b2243f972f7a79be2b19)
 - [A Compendium of Container Escapes (Black Hat 2019)](https://capsule8.com/assets/ug/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
 - [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
+- [In-and-out - Security of Copying to and from Live Containers (Open Source Summit 2019)](https://osseu19.sched.com/event/TLC4/in-and-out-security-of-copying-to-and-from-live-containers-ariel-zelivansky-yuval-avrahami-twistlock)
 - [Kata Containers逃逸研究](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
 - [容器逃逸技术概览](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
 - [容器逃逸成真：从CTF到CVE-2019-5736](https://wohin.me/rong-qi-tao-yi-cheng-zhen-cong-ctfjie-ti-dao-cve-2019-5736lou-dong-wa-jue-fen-xi/)
@@ -54,7 +58,12 @@ Hope to be helpful.
 
 ### 2.1 Container
 
+- [NIST.SP.800-190 Application Container Security Guide](https://csrc.nist.gov/publications/detail/sp/800-190/final)
+- [Understanding and Hardening Linux Containers](https://research.nccgroup.com/wp-content/uploads/2020/07/ncc_group_understanding_hardening_linux_containers-1-1.pdf)
 - [云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html)
 - [探索Sysdig Falco：容器环境下的异常行为检测工具](https://wohin.me/tan-suo-sysdig-falco-rong-qi-huan-jing-xia-de-yi-chang-xing-wei-jian-ce-gong-ju/)
 - [国外顶尖容器安全产品是怎么做的](https://mp.weixin.qq.com/s/JypEOt3N0li9l1KToToHZA)
 
+### Network
+
+- [BASTION: A Security Enforcement Network Stack for Container Networks](https://www.usenix.org/system/files/atc20-nam.pdf)
