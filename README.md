@@ -22,6 +22,7 @@ Hope to be helpful :)
 
 - [k0otkit: Hack K8s in a K8s Way (CIS 2020)](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks (RSA 2020)](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18317/2020_USA20_CSV-F01_01_Advanced%20Persistence%20Threats%20The%20Future%20of%20Kubernetes%20Attacks.pdf)
+- [Command and KubeCTL: Real-world Kubernetes Security for Pentesters](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
 
 ### 1.3 Container
 
