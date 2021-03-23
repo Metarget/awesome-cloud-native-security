@@ -20,13 +20,15 @@ Hope to be helpful :)
 
 ### 1.2 Kubernetes
 
-- [k0otkit：Hack K8s in a K8s Way (CIS 2020)](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
+- [k0otkit: Hack K8s in a K8s Way (CIS 2020)](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
+- [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18317/2020_USA20_CSV-F01_01_Advanced%20Persistence%20Threats%20The%20Future%20of%20Kubernetes%20Attacks.pdf)
 
 ### 1.3 Container
 
 #### 1.3.1 General
 
 - [Abusing Privileged and Unprivileged Linux Containers](https://www.nccgroup.com/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
+- [Well, That Escalated Quickly! How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass and Persistence in The Hypervisor via Shadow Containers (Black Hat 2017)](https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence.pdf)
 - [里应外合：借容器root提权](https://wohin.me/li-ying-wai-he-jie-zhu-rong-qi-root/)
 - [针对容器的渗透测试方法](https://mp.weixin.qq.com/s?subscene=19&__biz=MzIyODYzNTU2OA==&mid=2247487590&idx=1&sn=060a8bdf2ddfaff6ceae5cb931cb27ab&chksm=e84fb6b9df383faf1723040a0d6f0300c9517db902ef0010e230d8e802b1dfe9d8b95e6aabbd)
 - [A Methodology for Penetration Testing Docker Systems](https://www.cs.ru.nl/bachelors-theses/2020/Joren_Vrancken___4593847___A_Methodology_for_Penetration_Testing_Docker_Systems.pdf)
