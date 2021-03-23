@@ -8,13 +8,17 @@ P.S. `[CH]` means the specific resource is in Chinese, `EN` in English.
 
 ## Offensive
 
+### General
+
+- [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地 \[CH\]](https://developer.aliyun.com/article/765449)
+
 ### Kubernetes
 
 - [k0otkit：Hack K8s in a K8s Way \[CH\]](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
 - [云原生环境渗透工具考察 \[CH\]](https://wohin.me/yun-yuan-sheng-huan-jing-shen-tou-xiang-guan-gong-ju-kao-cha/)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录 (recommended) \[CH\]](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 
-### Containers
+### Container
 
 - [里应外合：借容器root提权 \[CH\]](https://wohin.me/li-ying-wai-he-jie-zhu-rong-qi-root/)
 - [Kata Containers逃逸研究 \[CH\]](https://wohin.me/kata-containerstao-yi-yan-jiu/)
@@ -25,6 +29,14 @@ P.S. `[CH]` means the specific resource is in Chinese, `EN` in English.
 
 ### Others
 
+- [腾讯蓝军安全提醒：开源云原生API网关 Kong 可能会成为攻击方进入企业内网的新入口 \[CH\]](https://security.tencent.com/index.php/announcement/msg/193)
+
 ## Defensive
 
+### Container
+
+- [云原生之容器安全实践 \[CH\]](https://tech.meituan.com/2020/03/12/cloud-native-security.html)
 - [探索Sysdig Falco：容器环境下的异常行为检测工具 \[CH\]](https://wohin.me/tan-suo-sysdig-falco-rong-qi-huan-jing-xia-de-yi-chang-xing-wei-jian-ce-gong-ju/)
+- [国外顶尖容器安全产品是怎么做的 \[CH\]](https://mp.weixin.qq.com/s/JypEOt3N0li9l1KToToHZA)
+
+### Others
