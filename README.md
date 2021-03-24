@@ -52,7 +52,7 @@ Hope to be helpful :)
 ### 1.4 Others
 
 - [腾讯蓝军安全提醒：开源云原生API网关 Kong 可能会成为攻击方进入企业内网的新入口](https://security.tencent.com/index.php/announcement/msg/193)
-- [Istio访问授权再曝高危漏洞](https://mp.weixin.qq.com/s/IHJAsO2SktNXqQGNLuTYUQ)
+- [Istio访问授权再曝高危漏洞 (CVE-2020-8595)](https://mp.weixin.qq.com/s/IHJAsO2SktNXqQGNLuTYUQ)
 
 ### 1.5 Tools
 
