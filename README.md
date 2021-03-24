@@ -23,6 +23,7 @@ Hope to be helpful :)
 - [k0otkit: Hack K8s in a K8s Way (CIS 2020)](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks (RSA 2020)](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18317/2020_USA20_CSV-F01_01_Advanced%20Persistence%20Threats%20The%20Future%20of%20Kubernetes%20Attacks.pdf)
 - [Command and KubeCTL: Real-world Kubernetes Security for Pentesters](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
+    - [Deep Dive into Real-World Kubernetes Threats](https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/)
 
 ### 1.3 Container
 
@@ -40,8 +41,8 @@ Hope to be helpful :)
 
 - [A Compendium of Container Escapes (Black Hat 2019)](https://capsule8.com/assets/ug/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
 - [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
+    - [Kata Containers逃逸研究](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
 - [In-and-out - Security of Copying to and from Live Containers (Open Source Summit 2019)](https://osseu19.sched.com/event/TLC4/in-and-out-security-of-copying-to-and-from-live-containers-ariel-zelivansky-yuval-avrahami-twistlock)
-- [Kata Containers逃逸研究](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
 - [容器逃逸技术概览](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
 - [容器逃逸成真：从CTF到CVE-2019-5736](https://wohin.me/rong-qi-tao-yi-cheng-zhen-cong-ctfjie-ti-dao-cve-2019-5736lou-dong-wa-jue-fen-xi/)
 - [Github: awesome-container-escape](https://github.com/brant-ruan/awesome-container-escape)
