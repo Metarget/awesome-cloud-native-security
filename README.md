@@ -2,7 +2,7 @@
 
 ![](images/banner.png)
 
-This repository is used to collect **awesome** resources on the topic of cloud native security found during research.
+This repository is used to collect **AWESOME** resources on the topic of cloud native security found during research.
 
 Hope to be helpful :)
 
@@ -45,6 +45,7 @@ Hope to be helpful :)
 - [容器逃逸技术概览](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
 - [容器逃逸成真：从CTF到CVE-2019-5736](https://wohin.me/rong-qi-tao-yi-cheng-zhen-cong-ctfjie-ti-dao-cve-2019-5736lou-dong-wa-jue-fen-xi/)
 - [Github: awesome-container-escape](https://github.com/brant-ruan/awesome-container-escape)
+- [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again](https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/)
 
 ### 1.4 Others
 
