@@ -14,15 +14,16 @@ Hope to be helpful :)
 - [2020 绿盟科技云原生安全技术报告](http://blog.nsfocus.net/wp-content/uploads/2021/01/Technical-Report-of-Cloud-Native-Security.pdf)
 - [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地](https://developer.aliyun.com/article/765449)
 - [MITRE ATT&CK framework for container runtime security with Falco.](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
-- [Threat matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
+- [Threat matrix for Kubernetes (Microsoft)](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
 - [云原生环境渗透工具考察](https://wohin.me/yun-yuan-sheng-huan-jing-shen-tou-xiang-guan-gong-ju-kao-cha/)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 
 ### 1.2 Kubernetes
 
-- [k0otkit: Hack K8s in a K8s Way (CIS 2020)](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
+- [k0otkit：针对K8s集群的通用后渗透控制技术 (CIS 2020)](https://github.com/brant-ruan/k0otkit/blob/main/CIS2020-slide.pdf)
+    - [k0otkit: Hack K8s in a K8s Way](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks (RSA 2020)](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18317/2020_USA20_CSV-F01_01_Advanced%20Persistence%20Threats%20The%20Future%20of%20Kubernetes%20Attacks.pdf)
-- [Command and KubeCTL: Real-world Kubernetes Security for Pentesters](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
+- [Command and KubeCTL: Real-world Kubernetes Security for Pentesters (Shmoocon 2020)](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
     - [Deep Dive into Real-World Kubernetes Threats](https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/)
 
 ### 1.3 Container
