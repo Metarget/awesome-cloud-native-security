@@ -8,8 +8,8 @@ Hope to be helpful :)
 
 ## 0 General
 
-- [2018 绿盟科技容器安全技术报告](https://www.nsfocus.com.cn/upload/contents/2018/11/20181109100414_79051.pdf)
-- [2020 绿盟科技云原生安全技术报告](http://blog.nsfocus.net/wp-content/uploads/2021/01/Technical-Report-of-Cloud-Native-Security.pdf)
+- [2018绿盟科技容器安全技术报告](https://www.nsfocus.com.cn/upload/contents/2018/11/20181109100414_79051.pdf)
+- [2020绿盟科技云原生安全技术报告](http://blog.nsfocus.net/wp-content/uploads/2021/01/Technical-Report-of-Cloud-Native-Security.pdf)
 - [A Measurement Study on Linux Container Security: Attacks and Countermeasures (ACSAC 2018)](https://csis.gmu.edu/ksun/publications/container-acsac18.pdf)
 - [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地](https://developer.aliyun.com/article/765449)
 - [MITRE ATT&CK framework for container runtime security with Falco.](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
@@ -64,6 +64,7 @@ Hope to be helpful :)
 
 - [腾讯蓝军安全提醒：开源云原生API网关 Kong 可能会成为攻击方进入企业内网的新入口](https://security.tencent.com/index.php/announcement/msg/193)
 - [Istio访问授权再曝高危漏洞 (CVE-2020-8595)](https://mp.weixin.qq.com/s/IHJAsO2SktNXqQGNLuTYUQ)
+- [A Survey of Istio’s Network Security Features](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
 
 ### 1.5 Tools
 
