@@ -14,6 +14,7 @@ Hope to be helpful :)
 - [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地](https://developer.aliyun.com/article/765449)
 - [MITRE ATT&CK framework for container runtime security with Falco.](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
 - [Threat matrix for Kubernetes (Microsoft)](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
+- [Hacking and Hardening Kubernetes Clusters by Example (KubeCon 2017)](https://github.com/sbueringer/kubecon-slides/blob/master/slides/2017-kubecon-na/Hacking%20and%20Hardening%20Kubernetes%20Clusters%20by%20Example%20%5BI%5D%20-%20Brad%20Geesaman%2C%20Symantec%20-%20Hacking%20and%20Hardening%20Kubernetes%20By%20Example%20v2.pdf)
 
 ## 1 Offensive
 
