@@ -6,15 +6,19 @@ This repository is used to collect **AWESOME** resources on the topic of cloud n
 
 Hope to be helpful :)
 
+## 0 General
+
+- [2018 绿盟科技容器安全技术报告](https://www.nsfocus.com.cn/upload/contents/2018/11/20181109100414_79051.pdf)
+- [2020 绿盟科技云原生安全技术报告](http://blog.nsfocus.net/wp-content/uploads/2021/01/Technical-Report-of-Cloud-Native-Security.pdf)
+- [A Measurement Study on Linux Container Security: Attacks and Countermeasures (ACSAC 2018)](https://csis.gmu.edu/ksun/publications/container-acsac18.pdf)
+- [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地](https://developer.aliyun.com/article/765449)
+- [MITRE ATT&CK framework for container runtime security with Falco.](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
+- [Threat matrix for Kubernetes (Microsoft)](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
+
 ## 1 Offensive
 
 ### 1.1 General
 
-- [2018 绿盟科技容器安全技术报告](https://www.nsfocus.com.cn/upload/contents/2018/11/20181109100414_79051.pdf)
-- [2020 绿盟科技云原生安全技术报告](http://blog.nsfocus.net/wp-content/uploads/2021/01/Technical-Report-of-Cloud-Native-Security.pdf)
-- [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地](https://developer.aliyun.com/article/765449)
-- [MITRE ATT&CK framework for container runtime security with Falco.](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
-- [Threat matrix for Kubernetes (Microsoft)](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
 - [云原生环境渗透工具考察](https://wohin.me/yun-yuan-sheng-huan-jing-shen-tou-xiang-guan-gong-ju-kao-cha/)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 
@@ -40,9 +44,10 @@ Hope to be helpful :)
 - [Well, That Escalated Quickly! How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass and Persistence in The Hypervisor via Shadow Containers (Black Hat 2017)](https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence.pdf)
 - [里应外合：借容器root提权](https://wohin.me/li-ying-wai-he-jie-zhu-rong-qi-root/)
 - [针对容器的渗透测试方法](https://mp.weixin.qq.com/s?subscene=19&__biz=MzIyODYzNTU2OA==&mid=2247487590&idx=1&sn=060a8bdf2ddfaff6ceae5cb931cb27ab&chksm=e84fb6b9df383faf1723040a0d6f0300c9517db902ef0010e230d8e802b1dfe9d8b95e6aabbd)
-- [A Methodology for Penetration Testing Docker Systems](https://www.cs.ru.nl/bachelors-theses/2020/Joren_Vrancken___4593847___A_Methodology_for_Penetration_Testing_Docker_Systems.pdf)
+- [A Methodology for Penetration Testing Docker Systems (Bachelor Theses)](https://www.cs.ru.nl/bachelors-theses/2020/Joren_Vrancken___4593847___A_Methodology_for_Penetration_Testing_Docker_Systems.pdf)
 - [CVE-2021-21287: 容器与云的碰撞——一次对MinIO的测试](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html)
-- [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups](http://www.cs.memphis.edu/~xgao1/paper/ccs19.pdf)
+- [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups (CCS 2019)](http://www.cs.memphis.edu/~xgao1/paper/ccs19.pdf)
+    - [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups (Video)](https://www.youtube.com/watch?v=PPo9sQnJaec)
 
 #### 1.3.2 Container Escape
 
@@ -68,15 +73,22 @@ Hope to be helpful :)
 
 ## 2 Defensive
 
-### 2.1 Container
+### 2.1 Standards and Best Practices
 
 - [NIST.SP.800-190 Application Container Security Guide](https://csrc.nist.gov/publications/detail/sp/800-190/final)
+- [NIST.IR.8176 Security Assurance Requirements for Linux Application Container Deployments](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
+- [OWASP Container Security Verification Standard](https://github.com/OWASP/Container-Security-Verification-Standard)
+- [CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes/)
+- [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/)
+
+### 2.2 Container
+
 - [Understanding and Hardening Linux Containers](https://research.nccgroup.com/wp-content/uploads/2020/07/ncc_group_understanding_hardening_linux_containers-1-1.pdf)
 - [容器环境相关的内核漏洞缓解技术](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488536&idx=1&sn=fd2fcb732e76b2243f972f7a79be2b19)
 - [云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html)
 - [探索Sysdig Falco：容器环境下的异常行为检测工具](https://wohin.me/tan-suo-sysdig-falco-rong-qi-huan-jing-xia-de-yi-chang-xing-wei-jian-ce-gong-ju/)
 - [国外顶尖容器安全产品是怎么做的](https://mp.weixin.qq.com/s/JypEOt3N0li9l1KToToHZA)
 
-### 2.2 Network
+### 2.3 Network
 
-- [BASTION: A Security Enforcement Network Stack for Container Networks](https://www.usenix.org/system/files/atc20-nam.pdf)
+- [BASTION: A Security Enforcement Network Stack for Container Networks (USENIX 2020)](https://www.usenix.org/system/files/atc20-nam.pdf)
