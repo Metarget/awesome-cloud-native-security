@@ -87,7 +87,7 @@ Hope to be helpful :)
 
 ## 2 Defensive
 
-### 2.1 Standards and Best Practices
+### 2.1 Standards and Benchmarks
 
 - [NIST.SP.800-190 Application Container Security Guide (2017-09-25)](https://csrc.nist.gov/publications/detail/sp/800-190/final)
 - [NIST.IR.8176 Security Assurance Requirements for Linux Application Container Deployments (2017-10)](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
@@ -101,11 +101,16 @@ Hope to be helpful :)
 - [探索Sysdig Falco：容器环境下的异常行为检测工具 (2019-09-25)](https://wohin.me/tan-suo-sysdig-falco-rong-qi-huan-jing-xia-de-yi-chang-xing-wei-jian-ce-gong-ju/)
 - [云原生之容器安全实践 (2020-03-12)](https://tech.meituan.com/2020/03/12/cloud-native-security.html)
 - [容器环境相关的内核漏洞缓解技术 (2020-08-31)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488536&idx=1&sn=fd2fcb732e76b2243f972f7a79be2b19)
-- [国外顶尖容器安全产品是怎么做的 (2020-12-04)](https://mp.weixin.qq.com/s/JypEOt3N0li9l1KToToHZA)
 
 ### 2.3 Network
 
 - [BASTION: A Security Enforcement Network Stack for Container Networks (USENIX 2020)](https://www.usenix.org/system/files/atc20-nam.pdf)
+
+### 2.4 Practices
+
+- [国外顶尖容器安全产品是怎么做的 (2020-12-04)](https://mp.weixin.qq.com/s/JypEOt3N0li9l1KToToHZA)
+- [Detecting MITRE ATT&CK: Defense evasion techniques with Falco (2021-02-02)](https://sysdig.com/blog/mitre-defense-evasion-falco/)
+- [Detecting MITRE ATT&CK: Privilege escalation with Falco (2021-03-02)](https://sysdig.com/blog/mitre-privilege-escalation-falco/)
 
 ## 4 Incidents
 
