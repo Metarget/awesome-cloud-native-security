@@ -26,6 +26,8 @@ Hope to be helpful :)
 
 ### 1.2 Kubernetes
 
+#### 1.2.1 General
+
 - [Walls Within Walls: What if your attacker knows parkour? (KubeCon 2019)](https://kccncna19.sched.com/event/UaeM/walls-within-walls-what-if-your-attacker-knows-parkour-tim-allclair-greg-castle-google)
     - [Walls Within Walls: What if Your Attacker Knows Parkour? (Video)](https://www.youtube.com/watch?v=6rMGRvcjvKc)
 - [k0otkit：针对K8s集群的通用后渗透控制技术 (CIS 2020)](https://github.com/brant-ruan/k0otkit/blob/main/CIS2020-slide.pdf)
@@ -37,6 +39,14 @@ Hope to be helpful :)
     - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions (Video)](https://www.youtube.com/watch?v=1LMo0CftVC4)
 - [Command and KubeCTL: Real-world Kubernetes Security for Pentesters (Shmoocon 2020)](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
     - [Deep Dive into Real-World Kubernetes Threats](https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/)
+
+#### 1.2.2 Vulnerabilities and Exploits
+
+- [Understanding about CVE-2017–1002101 on kubernetes (2018-03-19)](https://makocchi.medium.com/kubernetes-cve-2017-1002101-en-5a30bf701a3e)
+    - [Fixing the Subpath Volume Vulnerability in Kubernetes (2018-04-04)](https://kubernetes.io/blog/2018/04/04/fixing-subpath-volume-vulnerability/)
+- [The Story of the First Kubernetes Critical CVE (CVE-2018-1002105, 2018-12-04)](https://rancher.com/blog/2018/2018-12-04-k8s-cve/)
+    - [CVE-2018-1002105（k8s特权提升）原理与利用分析报告 (2018-12-08)](https://xz.aliyun.com/t/3542)
+- [Kubernetes Vulnerability Puts Clusters at Risk of Takeover (CVE-2020-8558)](https://unit42.paloaltonetworks.com/cve-2020-8558/)
 
 ### 1.3 Container
 
