@@ -42,33 +42,32 @@ Hope to be helpful :)
 
 #### 1.3.1 General
 
-- [Abusing Privileged and Unprivileged Linux Containers](https://www.nccgroup.com/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
+- [Abusing Privileged and Unprivileged Linux Containers (2016-06-01)](https://www.nccgroup.com/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
 - [Well, That Escalated Quickly! How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass and Persistence in The Hypervisor via Shadow Containers (Black Hat 2017)](https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence.pdf)
-- [里应外合：借容器root提权](https://wohin.me/li-ying-wai-he-jie-zhu-rong-qi-root/)
-- [针对容器的渗透测试方法](https://mp.weixin.qq.com/s?subscene=19&__biz=MzIyODYzNTU2OA==&mid=2247487590&idx=1&sn=060a8bdf2ddfaff6ceae5cb931cb27ab&chksm=e84fb6b9df383faf1723040a0d6f0300c9517db902ef0010e230d8e802b1dfe9d8b95e6aabbd)
-- [A Methodology for Penetration Testing Docker Systems (Bachelor Theses)](https://www.cs.ru.nl/bachelors-theses/2020/Joren_Vrancken___4593847___A_Methodology_for_Penetration_Testing_Docker_Systems.pdf)
-- [CVE-2021-21287: 容器与云的碰撞——一次对MinIO的测试](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html)
 - [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups (CCS 2019)](http://www.cs.memphis.edu/~xgao1/paper/ccs19.pdf)
     - [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups (Video)](https://www.youtube.com/watch?v=PPo9sQnJaec)
+- [A Methodology for Penetration Testing Docker Systems (Bachelor Theses, 2020-01-17)](https://www.cs.ru.nl/bachelors-theses/2020/Joren_Vrancken___4593847___A_Methodology_for_Penetration_Testing_Docker_Systems.pdf)
+    - [针对容器的渗透测试方法 (2020-04-17)](https://mp.weixin.qq.com/s?subscene=19&__biz=MzIyODYzNTU2OA==&mid=2247487590&idx=1&sn=060a8bdf2ddfaff6ceae5cb931cb27ab&chksm=e84fb6b9df383faf1723040a0d6f0300c9517db902ef0010e230d8e802b1dfe9d8b95e6aabbd)
+- [里应外合：借容器root提权 (2020-12-03)](https://wohin.me/li-ying-wai-he-jie-zhu-rong-qi-root/)
+- [CVE-2021-21287: 容器与云的碰撞——一次对MinIO的测试 (2021-01-30)](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html)
 
 #### 1.3.2 Container Escape
 
 - [A Compendium of Container Escapes (Black Hat 2019)](https://capsule8.com/assets/ug/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
-- [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
-    - [Kata Containers逃逸研究](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
 - [In-and-out - Security of Copying to and from Live Containers (Open Source Summit 2019)](https://osseu19.sched.com/event/TLC4/in-and-out-security-of-copying-to-and-from-live-containers-ariel-zelivansky-yuval-avrahami-twistlock)
-- [容器逃逸技术概览](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
-- [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host](https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html)
-    - [Escaping a Broken Container - 'namespaces' from 35C3 CTF](http://blog.perfect.blue/namespaces-35c3ctf)
-    - [容器逃逸成真：从CTF到CVE-2019-5736](https://wohin.me/rong-qi-tao-yi-cheng-zhen-cong-ctfjie-ti-dao-cve-2019-5736lou-dong-wa-jue-fen-xi/)
-- [Github: awesome-container-escape](https://github.com/brant-ruan/awesome-container-escape)
-- [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again](https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/)
+- [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host (2019-02-13)](https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html)
+    - [Escaping a Broken Container - 'namespaces' from 35C3 CTF (2019-04-15)](http://blog.perfect.blue/namespaces-35c3ctf)
+    - [容器逃逸成真：从CTF到CVE-2019-5736 (2019-11-20)](https://wohin.me/rong-qi-tao-yi-cheng-zhen-cong-ctfjie-ti-dao-cve-2019-5736lou-dong-wa-jue-fen-xi/)
+- [容器逃逸技术概览 (2020-02-21)](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
+- [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
+    - [Kata Containers逃逸研究 (2020-09-25)](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
+- [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again (2020-12-10)](https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/)
 
 ### 1.4 Others
 
-- [腾讯蓝军安全提醒：开源云原生API网关Kong可能会成为攻击方进入企业内网的新入口(CVE-2020-11710) (2020-04-15)](https://security.tencent.com/index.php/announcement/msg/193)
 - [A Survey of Istio’s Network Security Features (2020-03-04)](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
 - [Istio访问授权再曝高危漏洞 (CVE-2020-8595, 2020-03-13)](https://mp.weixin.qq.com/s/IHJAsO2SktNXqQGNLuTYUQ)
+- [腾讯蓝军安全提醒：开源云原生API网关Kong可能会成为攻击方进入企业内网的新入口(CVE-2020-11710) (2020-04-15)](https://security.tencent.com/index.php/announcement/msg/193)
 
 ### 1.5 Tools
 
@@ -80,8 +79,8 @@ Hope to be helpful :)
 
 ### 2.1 Standards and Best Practices
 
-- [NIST.SP.800-190 Application Container Security Guide](https://csrc.nist.gov/publications/detail/sp/800-190/final)
-- [NIST.IR.8176 Security Assurance Requirements for Linux Application Container Deployments](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
+- [NIST.SP.800-190 Application Container Security Guide (2017-09-25)](https://csrc.nist.gov/publications/detail/sp/800-190/final)
+- [NIST.IR.8176 Security Assurance Requirements for Linux Application Container Deployments (2017-10)](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
 - [OWASP Container Security Verification Standard](https://github.com/OWASP/Container-Security-Verification-Standard)
 - [CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes/)
 - [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/)
