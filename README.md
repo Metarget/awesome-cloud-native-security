@@ -99,4 +99,8 @@ Hope to be helpful :)
 
 ## 4 Incidents
 
+- [Lessons from the Cryptojacking Attack at Tesla (2018-02-20)](https://web.archive.org/web/20180222103919/https://blog.redlock.io/cryptojacking-tesla)
+- [Graboid: First-Ever Cryptojacking Worm Found in Images on Docker Hub (2019-10-15)](https://unit42.paloaltonetworks.com/graboid-first-ever-cryptojacking-worm-found-in-images-on-docker-hub/)
+- [Detect large-scale cryptocurrency mining attack against Kubernetes clusters (2020-04-08)](https://azure.microsoft.com/en-us/blog/detect-largescale-cryptocurrency-mining-attack-against-kubernetes-clusters/)
+- [Misconfigured Kubeflow workloads are a security risk (2020-06-10)](https://www.microsoft.com/security/blog/2020/06/10/misconfigured-kubeflow-workloads-are-a-security-risk/)
 - [Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes (2021-02-03)](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/)
