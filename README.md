@@ -63,6 +63,7 @@ Hope to be helpful :)
 
 #### 1.3.2 Container Escape
 
+- [Dirty COW - (CVE-2016-5195) - Docker Container Escape (2017-09)](https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/)
 - [A Compendium of Container Escapes (Black Hat 2019)](https://capsule8.com/assets/ug/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
 - [In-and-out - Security of Copying to and from Live Containers (Open Source Summit 2019)](https://osseu19.sched.com/event/TLC4/in-and-out-security-of-copying-to-and-from-live-containers-ariel-zelivansky-yuval-avrahami-twistlock)
 - [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host (2019-02-13)](https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html)
