@@ -13,6 +13,7 @@ Hope to be helpful :)
     - [2020绿盟科技云原生安全技术报告 (2021-01)](http://blog.nsfocus.net/wp-content/uploads/2021/01/Technical-Report-of-Cloud-Native-Security.pdf)
 - [A Measurement Study on Linux Container Security: Attacks and Countermeasures (ACSAC 2018)](https://csis.gmu.edu/ksun/publications/container-acsac18.pdf)
 - [MITRE ATT&CK framework for container runtime security with Falco. (2019-05-10)](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
+- [Containers' Security: Issues, Challenges, and Road Ahead (IEEE Access 2019)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8693491)
 - [Threat matrix for Kubernetes (Microsoft, 2020-04-02)](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
     - [Secure containerized environments with updated threat matrix for Kubernetes (2021-03-23)](https://www.microsoft.com/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
 - [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地 (2020-06-18)](https://developer.aliyun.com/article/765449)
@@ -77,15 +78,24 @@ Hope to be helpful :)
     - [容器逃逸CVE-2020-15257 containerd-shim Exploit开发 (2020-12-14)](https://www.cdxy.me/?p=837)
 - [How We Escaped Docker in Azure Functions (2021-01-27)](https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/)
 
-### 1.4 Others
+### 1.4 Serverless
+
+- [Hacking Serverless Runtimes (Black Hat 2017)](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
+    - [Hacking Serverless Runtimes (Whitepaper)](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes-wp.pdf)
+- [Serverless Toolkit for Pentesters (2018-11-11)](https://blog.ropnop.com/serverless-toolkit-for-pentesters/)
+- [Serverless Red Team Infrastructure: Part 1, Web Bugs](https://www.mdsec.co.uk/2018/09/serverless-red-team-infrastructure-part-1-web-bugs/)
+
+### 1.5 Others
 
 - [A Survey of Istio’s Network Security Features (2020-03-04)](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
 - [Istio访问授权再曝高危漏洞 (CVE-2020-8595, 2020-03-13)](https://mp.weixin.qq.com/s/IHJAsO2SktNXqQGNLuTYUQ)
 - [腾讯蓝军安全提醒：开源云原生API网关Kong可能会成为攻击方进入企业内网的新入口(CVE-2020-11710) (2020-04-15)](https://security.tencent.com/index.php/announcement/msg/193)
 
-### 1.5 Tools
+
+### 1.6 Tools
 
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- [serverless_toolkit](https://github.com/ropnop/serverless_toolkit)
 - [k0otkit - Manipulate K8s in a K8s way](https://github.com/brant-ruan/k0otkit)
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 
