@@ -83,7 +83,7 @@ Hope to be helpful :)
 - [Hacking Serverless Runtimes (Black Hat 2017)](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
     - [Hacking Serverless Runtimes (Whitepaper)](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes-wp.pdf)
 - [Serverless Toolkit for Pentesters (2018-11-11)](https://blog.ropnop.com/serverless-toolkit-for-pentesters/)
-- [Serverless Red Team Infrastructure: Part 1, Web Bugs](https://www.mdsec.co.uk/2018/09/serverless-red-team-infrastructure-part-1-web-bugs/)
+- [Serverless Red Team Infrastructure: Part 1, Web Bugs (2018-09)](https://www.mdsec.co.uk/2018/09/serverless-red-team-infrastructure-part-1-web-bugs/)
 
 ### 1.5 Others
 
