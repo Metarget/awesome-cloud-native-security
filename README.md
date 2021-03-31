@@ -85,6 +85,7 @@ Hope to be helpful :)
     - [Hacking Serverless Runtimes (Whitepaper)](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes-wp.pdf)
 - [Serverless Toolkit for Pentesters (2018-11-11)](https://blog.ropnop.com/serverless-toolkit-for-pentesters/)
 - [Serverless Red Team Infrastructure: Part 1, Web Bugs (2018-09)](https://www.mdsec.co.uk/2018/09/serverless-red-team-infrastructure-part-1-web-bugs/)
+- [针对AWS Lambda的运行时攻击 (2020-12-02)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488901&idx=1&sn=4d7bdb1ddf015cb77ea4e8bc0978712f&chksm=e84fb35adf383a4ca9e9b7cb0dce91cf757e043d74201361537aa6cd0e80cf6afaf1c63eb1e5&mpshare=1&scene=1&srcid=0331LaY4vmtzqLyDuZ41Y8GB&sharer_sharetime=1617201942068&sharer_shareid=353a216cfe47b39b5c642fc1dbddb3ef&version=3.1.0.2353&platform=mac#rd)
 
 ### 1.6 Service Mesh
 
