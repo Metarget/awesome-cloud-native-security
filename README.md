@@ -51,6 +51,7 @@ Hope to be helpful :)
 - [The Story of the First Kubernetes Critical CVE (CVE-2018-1002105, 2018-12-04)](https://rancher.com/blog/2018/2018-12-04-k8s-cve/)
     - [CVE-2018-1002105（k8s特权提升）原理与利用分析报告 (2018-12-08)](https://xz.aliyun.com/t/3542)
 - [Kubernetes Vulnerability Puts Clusters at Risk of Takeover (CVE-2020-8558) (2020-07-27)](https://unit42.paloaltonetworks.com/cve-2020-8558/)
+- [Protecting Against an Unfixed Kubernetes Man-in-the-Middle Vulnerability (CVE-2020-8554, 2020-12-21)](https://unit42.paloaltonetworks.com/cve-2020-8554/)
 
 ### 1.3 Container
 
