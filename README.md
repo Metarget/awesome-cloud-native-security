@@ -105,6 +105,7 @@ Hope to be helpful :)
 
 - [Well, That Escalated Quickly! How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass and Persistence in The Hypervisor via Shadow Containers (Black Hat 2017)](https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence.pdf)
     - [Well, That Escalated Quickly! (Whitepaper)](https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence_wp.pdf)
+- [What I Learned from Reverse Engineering Windows Containers (2019-12-12)](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/)
 - [Windows Server Containers Are Open, and Here's How You Can Break Out (2020-07-15)](https://unit42.paloaltonetworks.com/windows-server-containers-vulnerabilities/)
 - [Who Contains the Containers? (2021-04-01)](https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html)
 
