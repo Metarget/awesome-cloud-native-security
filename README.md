@@ -9,6 +9,7 @@ Note:
 - All resources will be suffixed and ordered by date of conferences, blogs or other formats of publication, if applicable.
 - Resources in sub-list are related to their parent entries
 - For simplicity, resources would **NOT** be duplicated in two or more topics. For example, some resources about Escape of Windows Server Containers are within topic *[Windows Containers](https://github.com/brant-ruan/awesome-cloud-native-security#18-windows-containers)*.
+- Contributions are welcome & appreciated :)
 
 ## 0 General
 
