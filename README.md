@@ -4,7 +4,11 @@
 
 This repository is used to collect **AWESOME** resources on the topic of cloud native security found during research.
 
-Hope to be helpful :)
+Note:
+
+- All resources will be suffixed and ordered by date of conferences, blogs or other formats of publication.
+- Resources in sub-list are related to their parent entries
+- For simplicity, resources would **NOT** be duplicated in two or more topics. For example, some resources about Escape of Windows Server Containers are within topic *[Windows Containers](https://github.com/brant-ruan/awesome-cloud-native-security#18-windows-containers)*.
 
 ## 0 General
 
@@ -37,6 +41,7 @@ Hope to be helpful :)
 - [k0otkit：针对K8s集群的通用后渗透控制技术 (CIS 2020)](https://github.com/brant-ruan/k0otkit/blob/main/CIS2020-slide.pdf)
     - [k0otkit: Hack K8s in a K8s Way (Paper)](https://wohin.me/k0otkit-hack-k8s-in-a-k8s-way/)
     - [k0otkit: Hack K8s in a K8s Way (Video)](https://cis.freebuf.com/?id=65)
+    - [Github Repo for k0otkit](https://github.com/brant-ruan/k0otkit)
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks (RSA 2020)](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18317/2020_USA20_CSV-F01_01_Advanced%20Persistence%20Threats%20The%20Future%20of%20Kubernetes%20Attacks.pdf)
     - [Advanced Persistence Threats: The Future of Kubernetes Attacks (Video)](https://www.youtube.com/watch?v=CH7S5rE3j8w)
 - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions (RSA 2020)](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18100/2020_USA20_DSO-W01_01_Compromising%20Kubernetes%20Cluster%20by%20Exploiting%20RBAC%20Permissions.pdf)
@@ -69,9 +74,11 @@ Hope to be helpful :)
 #### 1.3.2 Container Escape
 
 - [Dirty COW - (CVE-2016-5195) - Docker Container Escape (2017-09)](https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/)
+    - [ExP: CVE-2016-5195 by scumjr](https://github.com/scumjr/dirtycow-vdso)
 - [A Compendium of Container Escapes (Black Hat 2019)](https://capsule8.com/assets/ug/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
 - [In-and-out - Security of Copying to and from Live Containers (Open Source Summit 2019)](https://osseu19.sched.com/event/TLC4/in-and-out-security-of-copying-to-and-from-live-containers-ariel-zelivansky-yuval-avrahami-twistlock)
 - [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host (2019-02-13)](https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html)
+    - [ExP: CVE-2019-5736 by Frichetten](https://github.com/Frichetten/CVE-2019-5736-PoC)
     - [Escaping a Broken Container - 'namespaces' from 35C3 CTF (2019-04-15)](http://blog.perfect.blue/namespaces-35c3ctf)
     - [容器逃逸成真：从CTF到CVE-2019-5736 (2019-11-20)](https://wohin.me/rong-qi-tao-yi-cheng-zhen-cong-ctfjie-ti-dao-cve-2019-5736lou-dong-wa-jue-fen-xi/)
 - [容器逃逸技术概览 (2020-02-21)](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
@@ -107,13 +114,13 @@ Hope to be helpful :)
     - [Well, That Escalated Quickly! (Whitepaper)](https://www.blackhat.com/docs/us-17/thursday/us-17-Cherny-Well-That-Escalated-Quickly-How-Abusing-The-Docker-API-Led-To-Remote-Code-Execution-Same-Origin-Bypass-And-Persistence_wp.pdf)
 - [What I Learned from Reverse Engineering Windows Containers (2019-12-12)](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/)
 - [Windows Server Containers Are Open, and Here's How You Can Break Out (2020-07-15)](https://unit42.paloaltonetworks.com/windows-server-containers-vulnerabilities/)
-- [Who Contains the Containers? (2021-04-01)](https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html)
+    - [PoC: James Forshaw, the author of post *Who Contains the Containers?*](https://gist.github.com/tyranid/bf8a890e615d310c7193901a1c7e0e3a)
+- [Who Contains the Containers? (Project Zero, 2021-04-01)](https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html)
 
 ### 1.9 Tools
 
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - [serverless_toolkit](https://github.com/ropnop/serverless_toolkit)
-- [k0otkit - Manipulate K8s in a K8s way](https://github.com/brant-ruan/k0otkit)
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 
 ## 2 Defensive
