@@ -54,6 +54,7 @@ Note:
 
 - [Understanding about CVE-2017–1002101 on kubernetes (2018-03-19)](https://makocchi.medium.com/kubernetes-cve-2017-1002101-en-5a30bf701a3e)
     - [Fixing the Subpath Volume Vulnerability in Kubernetes (2018-04-04)](https://kubernetes.io/blog/2018/04/04/fixing-subpath-volume-vulnerability/)
+    - [ExP: CVE-2017-1002101 by bgeesaman](https://github.com/bgeesaman/subpath-exploit)
 - [The Story of the First Kubernetes Critical CVE (CVE-2018-1002105, 2018-12-04)](https://rancher.com/blog/2018/2018-12-04-k8s-cve/)
     - [CVE-2018-1002105（k8s特权提升）原理与利用分析报告 (2018-12-08)](https://xz.aliyun.com/t/3542)
 - [Non-Root Containers, Kubernetes CVE-2019-11245 and Why You Should Care, (2019-08-28)](https://unit42.paloaltonetworks.com/non-root-containers-kubernetes-cve-2019-11245-care/)
@@ -74,8 +75,14 @@ Note:
 
 #### 1.3.2 Container Escape
 
+- [Container escape through open_by_handle_at (shocker exploit) (2014-06-18)](https://lists.linuxcontainers.org/pipermail/lxc-users/2014-June/007248.html)
+    - [Docker breakout exploit analysis (2014-06-19)](https://medium.com/@fun_cuddles/docker-breakout-exploit-analysis-a274fff0e6b3)
+    - [PoC: Shocker by gabrtv](https://github.com/gabrtv/shocker)
+    - [Docker 容器逃逸案例分析 (2016-07-19)](https://developer.aliyun.com/article/57803)
 - [Dirty COW - (CVE-2016-5195) - Docker Container Escape (2017-09)](https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/)
     - [ExP: CVE-2016-5195 by scumjr](https://github.com/scumjr/dirtycow-vdso)
+- [Escaping Docker container using waitid() – CVE-2017-5123 (2017-12-27)](https://web.archive.org/web/20180626023815/https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
+    - [Escaping Docker container using waitid() - CVE-2017-5123 (Video)](https://www.youtube.com/watch?v=IdRDFS4u2rQ)
 - [A Compendium of Container Escapes (Black Hat 2019)](https://capsule8.com/assets/ug/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
 - [In-and-out - Security of Copying to and from Live Containers (Open Source Summit 2019)](https://osseu19.sched.com/event/TLC4/in-and-out-security-of-copying-to-and-from-live-containers-ariel-zelivansky-yuval-avrahami-twistlock)
 - [CVE-2019-5736: Escape from Docker and Kubernetes containers to root on host (2019-02-13)](https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html)
