@@ -173,6 +173,7 @@ Note:
 ### 2.6 Tools
 
 - [docker-bench-security](https://github.com/docker/docker-bench-security)
+- [kube-bench](https://github.com/aquasecurity/kube-bench)
 - [Falco](https://github.com/falcosecurity/falco)
 
 ## 3 Incidents
