@@ -49,6 +49,7 @@ Note:
     - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions (Video)](https://www.youtube.com/watch?v=1LMo0CftVC4)
 - [Command and KubeCTL: Real-world Kubernetes Security for Pentesters (Shmoocon 2020)](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
     - [Deep Dive into Real-World Kubernetes Threats (2020-02-12)](https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/)
+- [etcd未授权访问的风险及修复方案详解 (2021-04-09)](https://www.anquanke.com/post/id/236831)
 
 #### 1.2.2 Vulnerabilities and Exploits
 
