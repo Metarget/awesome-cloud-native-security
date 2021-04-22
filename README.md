@@ -112,6 +112,7 @@ Note:
 - [针对AWS Lambda的运行时攻击 (2020-12-02)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488901&idx=1&sn=4d7bdb1ddf015cb77ea4e8bc0978712f&chksm=e84fb35adf383a4ca9e9b7cb0dce91cf757e043d74201361537aa6cd0e80cf6afaf1c63eb1e5&mpshare=1&scene=1&srcid=0331LaY4vmtzqLyDuZ41Y8GB&sharer_sharetime=1617201942068&sharer_shareid=353a216cfe47b39b5c642fc1dbddb3ef&version=3.1.0.2353&platform=mac#rd)
 - [How We Escaped Docker in Azure Functions (2021-01-27)](https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/)
     - [Royal Flush: Privilege Escalation Vulnerability in Azure Functions (2021-04-08)](https://www.intezer.com/blog/cloud-security/royal-flush-privilege-escalation-vulnerability-in-azure-functions/)
+- [RT又玩新套路，竟然这样隐藏C2 (2021-04-21)](https://mp.weixin.qq.com/s/ouvfGPnkFs2C_FCKO5Q_sQ)
 
 ### 1.6 Service Mesh
 
