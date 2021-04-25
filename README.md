@@ -1,4 +1,4 @@
-# Awesome Cloud Native Security
+# Awesome Cloud Native Security 🐿
 
 ![](images/banner.png)
 
