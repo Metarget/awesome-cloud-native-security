@@ -136,6 +136,7 @@ Note:
 
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - [serverless_toolkit](https://github.com/ropnop/serverless_toolkit)
+- [kubesploit](https://github.com/cyberark/kubesploit)
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 
 ## 2 Defensive
@@ -176,6 +177,7 @@ Note:
 
 - [docker-bench-security](https://github.com/docker/docker-bench-security)
 - [kube-bench](https://github.com/aquasecurity/kube-bench)
+- [KubiScan](https://github.com/cyberark/KubiScan)
 - [Falco](https://github.com/falcosecurity/falco)
 
 ## 3 Incidents
