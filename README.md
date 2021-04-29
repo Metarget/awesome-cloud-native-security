@@ -61,6 +61,8 @@ Note:
 - [Non-Root Containers, Kubernetes CVE-2019-11245 and Why You Should Care, (2019-08-28)](https://unit42.paloaltonetworks.com/non-root-containers-kubernetes-cve-2019-11245-care/)
 - [Kubernetes Vulnerability Puts Clusters at Risk of Takeover (CVE-2020-8558) (2020-07-27)](https://unit42.paloaltonetworks.com/cve-2020-8558/)
 - [Protecting Against an Unfixed Kubernetes Man-in-the-Middle Vulnerability (CVE-2020-8554, 2020-12-21)](https://unit42.paloaltonetworks.com/cve-2020-8554/)
+- [Exploiting and detecting CVE-2021-25735: Kubernetes validating admission webhook bypass (2021-04-28)](https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/)
+    - [ExP: CVE-2021-25735 by darryk10](https://github.com/darryk10/CVE-2021-25735)
 
 ### 1.3 Container
 
