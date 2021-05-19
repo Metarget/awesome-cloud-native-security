@@ -139,9 +139,10 @@ Note:
 
 ### 1.9 Tools
 
-- [kube-hunter](https://github.com/aquasecurity/kube-hunter)
-- [serverless_toolkit](https://github.com/ropnop/serverless_toolkit)
+- [kube-hunter - Hunt for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter)
+- [serverless_toolkit - A collection of useful Serverless functions I use when pentesting](https://github.com/ropnop/serverless_toolkit)
 - [kubesploit](https://github.com/cyberark/kubesploit)
+- [kubeletmein - Security testing tool for Kubernetes, abusing kubelet credentials on public cloud providers](https://github.com/4ARMED/kubeletmein)
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 - [Metarget - framework providing automatic constructions of vulnerable infrastructures](https://github.com/brant-ruan/metarget)
 
