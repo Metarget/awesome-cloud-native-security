@@ -51,6 +51,8 @@ Note:
     - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions (Video)](https://www.youtube.com/watch?v=1LMo0CftVC4)
 - [Command and KubeCTL: Real-world Kubernetes Security for Pentesters (Shmoocon 2020)](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
     - [Deep Dive into Real-World Kubernetes Threats (2020-02-12)](https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/)
+- [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 1 (2020-11-05)](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-1)
+    - [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 2 (2021-05-17)](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2)
 - [etcd未授权访问的风险及修复方案详解 (2021-04-09)](https://www.anquanke.com/post/id/236831)
 
 #### 1.2.2 Vulnerabilities and Exploits
@@ -62,8 +64,6 @@ Note:
     - [CVE-2018-1002105（k8s特权提升）原理与利用分析报告 (2018-12-08)](https://xz.aliyun.com/t/3542)
 - [Non-Root Containers, Kubernetes CVE-2019-11245 and Why You Should Care, (2019-08-28)](https://unit42.paloaltonetworks.com/non-root-containers-kubernetes-cve-2019-11245-care/)
 - [Kubernetes Vulnerability Puts Clusters at Risk of Takeover (CVE-2020-8558) (2020-07-27)](https://unit42.paloaltonetworks.com/cve-2020-8558/)
-- [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 1 (2020-11-05)](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-1)
-    - [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 2 (2021-05-17)](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2)
 - [Protecting Against an Unfixed Kubernetes Man-in-the-Middle Vulnerability (CVE-2020-8554, 2020-12-21)](https://unit42.paloaltonetworks.com/cve-2020-8554/)
 - [Exploiting and detecting CVE-2021-25735: Kubernetes validating admission webhook bypass (2021-04-28)](https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/)
     - [ExP: CVE-2021-25735 by darryk10](https://github.com/darryk10/CVE-2021-25735)
