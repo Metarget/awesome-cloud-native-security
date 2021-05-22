@@ -149,6 +149,7 @@ Note:
 - [kubeletmein - Security testing tool for Kubernetes, abusing kubelet credentials on public cloud providers](https://github.com/4ARMED/kubeletmein)
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 - [Metarget - framework providing automatic constructions of vulnerable infrastructures](https://github.com/brant-ruan/metarget)
+- [red-kube - Red Team K8S Adversary Emulation Based on kubectl](https://github.com/lightspin-tech/red-kube)
 
 ## 2 Defensive
 
