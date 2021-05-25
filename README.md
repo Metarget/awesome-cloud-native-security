@@ -110,7 +110,6 @@ Note:
 - [host模式容器逃逸漏洞（CVE-2020-15257）技术分析 (2020-12-02)](https://mp.weixin.qq.com/s/WmSaLPnG4o4Co1xRiYCOnQ)
     - [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again (2020-12-10)](https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/)
     - [容器逃逸CVE-2020-15257 containerd-shim Exploit开发 (2020-12-14)](https://www.cdxy.me/?p=837)
-- [How We Escaped Docker in Azure Functions (2021-01-27)](https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/)
 - [The Strange Case of How We Escaped the Docker Default Container (CVE-2020-27352, 2021-03-04)](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container)
 
 ### 1.4 Serverless
