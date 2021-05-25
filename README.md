@@ -68,6 +68,7 @@ Note:
 - [Protecting Against an Unfixed Kubernetes Man-in-the-Middle Vulnerability (CVE-2020-8554, 2020-12-21)](https://unit42.paloaltonetworks.com/cve-2020-8554/)
 - [Exploiting and detecting CVE-2021-25735: Kubernetes validating admission webhook bypass (2021-04-28)](https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/)
     - [ExP: CVE-2021-25735 by darryk10](https://github.com/darryk10/CVE-2021-25735)
+- [Detecting and Mitigating CVE-2021-25737: EndpointSlice validation enables host network hijack (2021-05-24)](https://sysdig.com/blog/cve-2021-25737-endpointslice/)
 
 ### 1.3 Container
 
