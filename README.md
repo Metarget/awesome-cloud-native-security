@@ -111,6 +111,7 @@ Note:
     - [ABSTRACT SHIMMER (CVE-2020-15257): Host Networking is root-Equivalent, Again (2020-12-10)](https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/)
     - [容器逃逸CVE-2020-15257 containerd-shim Exploit开发 (2020-12-14)](https://www.cdxy.me/?p=837)
 - [The Strange Case of How We Escaped the Docker Default Container (CVE-2020-27352, 2021-03-04)](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container)
+- [runc mount destinations can be swapped via symlink-exchange to cause mounts outside the rootfs (CVE-2021-30465) (2021-05-30)](http://blog.champtar.fr/runc-symlink-CVE-2021-30465/)
 
 ### 1.4 Serverless
 
