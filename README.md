@@ -54,6 +54,7 @@ Note:
 - [Using Kubelet Client to Attack the Kubernetes Cluster (2020-08-19)](https://www.cyberark.com/resources/threat-research-blog/using-kubelet-client-to-attack-the-kubernetes-cluster)
 - [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 1 (2020-11-05)](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-1)
     - [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 2 (2021-05-17)](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2)
+- [Metadata service MITM allows root privilege escalation (EKS / GKE) (2021-02-28)](https://blog.champtar.fr/Metadata_MITM_root_EKS_GKE/)
 - [etcd未授权访问的风险及修复方案详解 (2021-04-09)](https://www.anquanke.com/post/id/236831)
 
 #### 1.2.2 Vulnerabilities and Exploits
@@ -67,7 +68,9 @@ Note:
 - [Non-Root Containers, Kubernetes CVE-2019-11245 and Why You Should Care, (2019-08-28)](https://unit42.paloaltonetworks.com/non-root-containers-kubernetes-cve-2019-11245-care/)
 - [When it’s not only about a Kubernetes CVE... (CVE-2020-8555, 2020-06-03)](https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8)
 - [Kubernetes Vulnerability Puts Clusters at Risk of Takeover (CVE-2020-8558, 2020-07-27)](https://unit42.paloaltonetworks.com/cve-2020-8558/)
-- [Protecting Against an Unfixed Kubernetes Man-in-the-Middle Vulnerability (CVE-2020-8554, 2020-12-21)](https://unit42.paloaltonetworks.com/cve-2020-8554/)
+- [Kubernetes man in the middle using LoadBalancer or ExternalIPs (CVE-2020-8554, 2020-12-08)](https://blog.champtar.fr/K8S_MITM_LoadBalancer_ExternalIPs/)
+    - [Protecting Against an Unfixed Kubernetes Man-in-the-Middle Vulnerability (CVE-2020-8554, 2020-12-21)](https://unit42.paloaltonetworks.com/cve-2020-8554/)
+- [Host MITM attack via IPv6 rogue router advertisements (K8S CVE-2020-10749 / Docker CVE-2020-13401 / LXD / WSL2 / …) (2021-02-28)](https://blog.champtar.fr/IPv6_RA_MITM/)
 - [Exploiting and detecting CVE-2021-25735: Kubernetes validating admission webhook bypass (2021-04-28)](https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/)
     - [ExP: CVE-2021-25735 by darryk10](https://github.com/darryk10/CVE-2021-25735)
 - [Detecting and Mitigating CVE-2021-25737: EndpointSlice validation enables host network hijack (2021-05-24)](https://sysdig.com/blog/cve-2021-25737-endpointslice/)
