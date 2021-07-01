@@ -118,6 +118,7 @@ Note:
 - [The Strange Case of How We Escaped the Docker Default Container (CVE-2020-27352, 2021-03-04)](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container)
 - [runc mount destinations can be swapped via symlink-exchange to cause mounts outside the rootfs (CVE-2021-30465, 2021-05-30)](http://blog.champtar.fr/runc-symlink-CVE-2021-30465/)
 - [利用Linux内核漏洞实现Docker逃逸 (2021-06-11)](https://mp.weixin.qq.com/s/ea8YLaXjSjKcN4MNgMi2aQ)
+- [【安全干货】Docker CVE-2018-6552 (2021-06-30)](https://mp.weixin.qq.com/s?__biz=Mzg5NjEyMjA5OQ==&mid=2247486707&idx=1&sn=0cd7dea2347f19beb703088947932b4f)
 
 ### 1.4 Serverless
 
