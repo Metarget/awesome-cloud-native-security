@@ -210,4 +210,4 @@ Note:
 - [Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes (2021-02-03)](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/)
 - [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments (2021-06-07)](https://unit42.paloaltonetworks.com/siloscape/)
 - [NSA, Partners Release Cybersecurity Advisory on Brute Force Global Cyber Campaign (2021-07-01)](https://www.nsa.gov/news-features/press-room/Article/2677750/nsa-partners-release-cybersecurity-advisory-on-brute-force-global-cyber-campaign/)
-    - [Russian GRU Conducting Global Brute Force Campaign to Compromise Enterprise and Cloud Environments](https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF)
+    - [Russian GRU Conducting Global Brute Force Campaign to Compromise Enterprise and Cloud Environments (2021-07)](https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF)
