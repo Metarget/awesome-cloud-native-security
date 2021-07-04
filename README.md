@@ -209,3 +209,4 @@ Note:
 - [鉴权配置不当，蠕虫在自建K8s集群自由出入 (2020-09-16)](https://developer.aliyun.com/article/772455)
 - [Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes (2021-02-03)](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/)
 - [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments (2021-06-07)](https://unit42.paloaltonetworks.com/siloscape/)
+- [NSA, Partners Release Cybersecurity Advisory on Brute Force Global Cyber Campaign (2021-07-01)](https://www.nsa.gov/news-features/press-room/Article/2677750/nsa-partners-release-cybersecurity-advisory-on-brute-force-global-cyber-campaign/)
