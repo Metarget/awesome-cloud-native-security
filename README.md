@@ -56,6 +56,7 @@ Note:
     - [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 2 (2021-05-17)](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2)
 - [Metadata service MITM allows root privilege escalation (EKS / GKE) (2021-02-28)](https://blog.champtar.fr/Metadata_MITM_root_EKS_GKE/)
 - [etcd未授权访问的风险及修复方案详解 (2021-04-09)](https://www.anquanke.com/post/id/236831)
+- [New Attacks on Kubernetes via Misconfigured Argo Workflows (2021-07-20)](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
 
 #### 1.2.2 Vulnerabilities and Exploits
 
