@@ -120,6 +120,8 @@ Note:
 - [runc mount destinations can be swapped via symlink-exchange to cause mounts outside the rootfs (CVE-2021-30465, 2021-05-30)](http://blog.champtar.fr/runc-symlink-CVE-2021-30465/)
 - [利用Linux内核漏洞实现Docker逃逸 (2021-06-11)](https://mp.weixin.qq.com/s/ea8YLaXjSjKcN4MNgMi2aQ)
 - [【安全干货】Docker CVE-2018-6552 (2021-06-30)](https://mp.weixin.qq.com/s?__biz=Mzg5NjEyMjA5OQ==&mid=2247486707&idx=1&sn=0cd7dea2347f19beb703088947932b4f)
+- [CVE-2021-22555: Turning \x00\x00 into 10000$ (2021-07-07)](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html)
+    - [CVE-2021-22555：Linux 内核提权导致 Docker 逃逸 (2021-07-23)](https://mp.weixin.qq.com/s?__biz=MzI1NDQxMDE0NQ==&mid=2247484015&idx=1&sn=74755a7113cd13655239d885c34562f0)
 
 ### 1.4 Serverless
 
@@ -136,6 +138,7 @@ Note:
 
 - [A Survey of Istio’s Network Security Features (2020-03-04)](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
 - [Istio访问授权再曝高危漏洞 (CVE-2020-8595, 2020-03-13)](https://mp.weixin.qq.com/s/IHJAsO2SktNXqQGNLuTYUQ)
+- [Istio Security Assessment (2021-07-13 (disclosed), 2020-08-06 (accomplished) by Istio with NCC Group)](https://istio.io/latest/blog/2021/ncc-security-assessment/NCC_Group_Google_GOIST2005_Report_2020-08-06_v1.1.pdf)
 
 ### 1.7 API Gateway
 
