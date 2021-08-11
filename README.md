@@ -163,6 +163,7 @@ Note:
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 - [Metarget - framework providing automatic constructions of vulnerable infrastructures](https://github.com/brant-ruan/metarget)
 - [red-kube - Red Team K8S Adversary Emulation Based on kubectl](https://github.com/lightspin-tech/red-kube)
+- [whoc - A container image that extracts the underlying container runtime](https://github.com/twistlock/whoc)
 
 ## 2 Defensive
 
