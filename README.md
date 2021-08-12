@@ -134,6 +134,7 @@ Note:
 - [How We Escaped Docker in Azure Functions (2021-01-27)](https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/)
     - [Royal Flush: Privilege Escalation Vulnerability in Azure Functions (2021-04-08)](https://www.intezer.com/blog/cloud-security/royal-flush-privilege-escalation-vulnerability-in-azure-functions/)
 - [RT又玩新套路，竟然这样隐藏C2 (2021-04-21)](https://mp.weixin.qq.com/s/ouvfGPnkFs2C_FCKO5Q_sQ)
+- [CDN+FaaS打造攻击前置 (2021-08-11)](https://mp.weixin.qq.com/s/6SAgy16Uja42GksLJdRHOg)
 
 ### 1.6 Service Mesh
 
