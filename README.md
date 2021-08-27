@@ -197,8 +197,6 @@ Note:
 ### 2.5 Practices
 
 - [国外顶尖容器安全产品是怎么做的 (2020-12-04)](https://mp.weixin.qq.com/s/JypEOt3N0li9l1KToToHZA)
-- [Detecting MITRE ATT&CK: Defense evasion techniques with Falco (2021-02-02)](https://sysdig.com/blog/mitre-defense-evasion-falco/)
-- [Detecting MITRE ATT&CK: Privilege escalation with Falco (2021-03-02)](https://sysdig.com/blog/mitre-privilege-escalation-falco/)
 
 ### 2.6 Tools
 
@@ -206,6 +204,9 @@ Note:
 - [kube-bench](https://github.com/aquasecurity/kube-bench)
 - [KubiScan](https://github.com/cyberark/KubiScan)
 - [Falco](https://github.com/falcosecurity/falco)
+    - [Bypass Falco (2020-11-20)](https://static.sched.com/hosted_files/kccncna20/56/Bypass%20Falco%20%5BKubeCon%20%2B%20CloudNativeCon%20NA%202020%5D.pdf)
+    - [Detecting MITRE ATT&CK: Privilege escalation with Falco (2021-03-02)](https://sysdig.com/blog/mitre-privilege-escalation-falco/)
+    - [Detecting MITRE ATT&CK: Defense evasion techniques with Falco (2021-02-02)](https://sysdig.com/blog/mitre-defense-evasion-falco/)
 - [Elkeid](https://github.com/bytedance/Elkeid)
 
 ## 3 Incidents
