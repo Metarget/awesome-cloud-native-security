@@ -207,7 +207,8 @@ Note:
     - [Bypass Falco (2020-11-20)](https://static.sched.com/hosted_files/kccncna20/56/Bypass%20Falco%20%5BKubeCon%20%2B%20CloudNativeCon%20NA%202020%5D.pdf)
     - [Detecting MITRE ATT&CK: Defense evasion techniques with Falco (2021-02-02)](https://sysdig.com/blog/mitre-defense-evasion-falco/)
     - [Detecting MITRE ATT&CK: Privilege escalation with Falco (2021-03-02)](https://sysdig.com/blog/mitre-privilege-escalation-falco/)
-- [Elkeid](https://github.com/bytedance/Elkeid)
+- [Elkeid - Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture](https://github.com/bytedance/Elkeid)
+- [kubescape - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA](https://github.com/armosec/kubescape)
 
 ## 3 Incidents
 
