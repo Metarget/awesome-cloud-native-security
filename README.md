@@ -175,6 +175,8 @@ Note:
 - [OWASP Container Security Verification Standard](https://github.com/OWASP/Container-Security-Verification-Standard)
 - [CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes/)
 - [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/)
+- [NIST.SP.800-204 Security Strategies for Microservices-based Application Systems (2019-08)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204.pdf)
+    - [NIST.SP.800-204B Attribute-based Access Control for Microservices-based Applications Using a Service Mesh (2021-08)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204B.pdf)
 
 ### 2.2 Container
 
