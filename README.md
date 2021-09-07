@@ -199,6 +199,7 @@ Note:
 ### 2.5 Practices
 
 - [国外顶尖容器安全产品是怎么做的 (2020-12-04)](https://mp.weixin.qq.com/s/JypEOt3N0li9l1KToToHZA)
+- [云原生｜容器和应用安全运营实践思考 (2021-09-07)](https://mp.weixin.qq.com/s/rRJLW5ZaecEjnLIWjQqs9g)
 
 ### 2.6 Tools
 
