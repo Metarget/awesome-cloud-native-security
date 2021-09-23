@@ -124,6 +124,7 @@ Note:
 - [CVE-2021-22555: Turning \x00\x00 into 10000$ (2021-07-07)](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html)
     - [CVE-2021-22555：Linux 内核提权导致 Docker 逃逸 (2021-07-23)](https://mp.weixin.qq.com/s?__biz=MzI1NDQxMDE0NQ==&mid=2247484015&idx=1&sn=74755a7113cd13655239d885c34562f0)
 - [Container Escape in 2021 (HITB 2021)](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf)
+- [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances (2021-09-09)](https://unit42.paloaltonetworks.com/azure-container-instances/)
 
 ### 1.4 Serverless
 
