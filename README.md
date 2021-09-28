@@ -25,6 +25,7 @@ Note:
     - [Secure containerized environments with updated threat matrix for Kubernetes (2021-03-23)](https://www.microsoft.com/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
 - [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地 (2020-06-18)](https://developer.aliyun.com/article/765449)
 - [Sysdig 2021 Container Security and Usage Report (2021-01-01)](https://sysdig.com/wp-content/uploads/2021-container-security-and-usage-report.pdf)
+- [CNCF Cloud Native Security Whitepaper (2021-02-17)](https://github.com/cncf/tag-security/blob/017e77ff380e303d80adb78e60a1f262e80df0e8/security-whitepaper/cloud-native-security-whitepaper.md)
 - [MITRE ATT&CK Containers Matrix (2021-04-29)](https://attack.mitre.org/matrices/enterprise/containers/)
 - [Metarget：云原生攻防靶场开源啦！ (2021-05-10)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489415&idx=1&sn=4aea7b7ecff51710c79037ab07a889bc)
 - [Kubernetes Hardening Guidance (by NSA & CISA, 2021-08-03)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
