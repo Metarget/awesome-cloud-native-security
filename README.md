@@ -59,6 +59,7 @@ Note:
 - [Metadata service MITM allows root privilege escalation (EKS / GKE) (2021-02-28)](https://blog.champtar.fr/Metadata_MITM_root_EKS_GKE/)
 - [etcd未授权访问的风险及修复方案详解 (2021-04-09)](https://www.anquanke.com/post/id/236831)
 - [New Attacks on Kubernetes via Misconfigured Argo Workflows (2021-07-20)](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
+- [Don’t let Prometheus Steal your Fire (2021-10-12))](https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/)
 
 #### 1.2.2 Vulnerabilities and Exploits
 
@@ -230,6 +231,4 @@ Note:
 - [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments (2021-06-07)](https://unit42.paloaltonetworks.com/siloscape/)
 - [NSA, Partners Release Cybersecurity Advisory on Brute Force Global Cyber Campaign (2021-07-01)](https://www.nsa.gov/news-features/press-room/Article/2677750/nsa-partners-release-cybersecurity-advisory-on-brute-force-global-cyber-campaign/)
     - [Russian GRU Conducting Global Brute Force Campaign to Compromise Enterprise and Cloud Environments (2021-07)](https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF)
-- [New Attacks on Kubernetes via Misconfigured Argo Workflows (2021-07-20)](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
 - [DockerHub再现百万下载量黑产镜像，小心你的容器被挖矿 (2021-08-30)](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247490656&idx=1&sn=8d86694b96f7c78aaba149bc123b620f)
-- [Don’t let Prometheus Steal your Fire (2021-10-12))](https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/)
