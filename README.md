@@ -113,6 +113,7 @@ Note:
 - [Felix Wilhelm's Twitter on the Escape Technique utilizing release_agent (2019-07-17)](https://twitter.com/_fel1x/status/1151487051986087936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1151487053370187776%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fajxchapman.github.io%2Fcontainers%2F2020%2F11%2F19%2Fprivileged-container-escape.html)
     - [Understanding Docker container escapes (2019-07-19)](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
     - [Privileged Container Escape - Control Groups release_agent (2020-11-19)](https://ajxchapman.github.io/containers/2020/11/19/privileged-container-escape.html)
+- [Original Tweet on CVE-2019-16884 (2019-09-22)](https://twitter.com/adam_iwaniuk/status/1175741830136291328)
 - [容器逃逸技术概览 (2020-02-21)](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
 - [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
     - [Kata Containers逃逸研究 (2020-09-25)](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
