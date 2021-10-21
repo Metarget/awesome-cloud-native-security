@@ -34,6 +34,7 @@ Note:
 
 ### 1.1 General
 
+- [Container Security: Examining Potential Threats to the Container Environment (2019-05-14)](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
 - [云原生环境渗透工具考察 (2020-06-22)](https://wohin.me/yun-yuan-sheng-huan-jing-shen-tou-xiang-guan-gong-ju-kao-cha/)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录 (2021-03-02)](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 
@@ -225,9 +226,21 @@ Note:
 - [Lessons from the Cryptojacking Attack at Tesla (2018-02-20)](https://web.archive.org/web/20180222103919/https://blog.redlock.io/cryptojacking-tesla)
 - [Graboid: First-Ever Cryptojacking Worm Found in Images on Docker Hub (2019-10-15)](https://unit42.paloaltonetworks.com/graboid-first-ever-cryptojacking-worm-found-in-images-on-docker-hub/)
 - [Detect large-scale cryptocurrency mining attack against Kubernetes clusters (2020-04-08)](https://azure.microsoft.com/en-us/blog/detect-largescale-cryptocurrency-mining-attack-against-kubernetes-clusters/)
+- [Coinminer, DDoS Bot Attack Docker Daemon Ports (2020-05-06)](https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/coinminer-ddos-bot-attack-docker-daemon-ports)
+    - [TeamTNT团伙对Docker主机发起攻击活动，植入挖矿木马 (2020-08-04)](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650166823&idx=1&sn=4bb43461b3159a2ef8ff21d244dc10ed)
+    - [Team TNT – The First Crypto-Mining Worm to Steal AWS Credentials (2020-08-16)](https://www.cadosecurity.com/team-tnt-the-first-crypto-mining-worm-to-steal-aws-credentials/)
+    - [Cetus: Cryptojacking Worm Targeting Docker Daemons (2020-08-27)](https://unit42.paloaltonetworks.com/cetus-cryptojacking-worm/)
+    - [Black-T: New Cryptojacking Variant from TeamTNT (2020-10-05)](https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/)
+    - [TeamTNT 挖矿木马利用Docker Remote API未授权访问漏洞入侵云服务器 (2020-11-27)](https://s.tencent.com/research/report/1185.html)
+    - [TeamTNT Now Deploying DDoS-Capable IRC Bot TNTbotinger (2020-12-18)](https://www.trendmicro.com/en_us/research/20/l/teamtnt-now-deploying-ddos-capable-irc-bot-tntbotinger.html)
+    - [Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes (2021-02-03)](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/)
+    - [TeamTNT Targets Kubernetes, Nearly 50,000 IPs Compromised in Worm-like Attack (2021-05-25)](https://www.trendmicro.com/en_nl/research/21/e/teamtnt-targets-kubernetes--nearly-50-000-ips-compromised.html)
+    - [Tracking the Activities of TeamTNT: A Closer Look at a Cloud-Focused Malicious Actor Group (2021-06)](https://documents.trendmicro.com/assets/white_papers/wp-tracking-the-activities-of-teamTNT.pdf)
+    - [TeamTNT Actively Enumerating Cloud Environments to Infiltrate Organizations (2021-06-04)](https://unit42.paloaltonetworks.com/teamtnt-operations-cloud-environments/)
+    - [TeamTNT with new campaign aka "Chimaera" (2021-09-08)](https://cybersecurity.att.com/blogs/labs-research/teamtnt-with-new-campaign-aka-chimaera)
+    - [再次捕获云上在野容器攻击，TeamTNT黑产攻击方法揭秘 (2021-10-20)](https://mp.weixin.qq.com/s/9ZSxpeUHTcgQrQ1Ys5uROw)
 - [Misconfigured Kubeflow workloads are a security risk (2020-06-10)](https://www.microsoft.com/security/blog/2020/06/10/misconfigured-kubeflow-workloads-are-a-security-risk/)
 - [鉴权配置不当，蠕虫在自建K8s集群自由出入 (2020-09-16)](https://developer.aliyun.com/article/772455)
-- [Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes (2021-02-03)](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/)
 - [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments (2021-06-07)](https://unit42.paloaltonetworks.com/siloscape/)
 - [NSA, Partners Release Cybersecurity Advisory on Brute Force Global Cyber Campaign (2021-07-01)](https://www.nsa.gov/news-features/press-room/Article/2677750/nsa-partners-release-cybersecurity-advisory-on-brute-force-global-cyber-campaign/)
     - [Russian GRU Conducting Global Brute Force Campaign to Compromise Enterprise and Cloud Environments (2021-07)](https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF)
