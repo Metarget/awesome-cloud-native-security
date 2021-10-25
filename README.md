@@ -80,6 +80,7 @@ Note:
 - [Exploiting and detecting CVE-2021-25735: Kubernetes validating admission webhook bypass (2021-04-28)](https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/)
     - [ExP: CVE-2021-25735 by darryk10](https://github.com/darryk10/CVE-2021-25735)
 - [Detecting and Mitigating CVE-2021-25737: EndpointSlice validation enables host network hijack (2021-05-24)](https://sysdig.com/blog/cve-2021-25737-endpointslice/)
+- [浅谈云上攻防——CVE-2020-8562漏洞为k8s带来的安全挑战 (2021-10-25)](https://mp.weixin.qq.com/s/HCBL7SND_-IZqeqX_vchug)
 
 ### 1.3 Container
 
