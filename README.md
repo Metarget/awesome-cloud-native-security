@@ -30,6 +30,7 @@ Note:
 - [Metarget：云原生攻防靶场开源啦！ (2021-05-10)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489415&idx=1&sn=4aea7b7ecff51710c79037ab07a889bc)
 - [Kubernetes Hardening Guidance (by NSA & CISA, 2021-08-03)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 - [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
+- [《云原生安全：攻防实践与体系构建》](https://github.com/brant-ruan/cloud-native-security-book)
 
 ## 1 Offensive
 
@@ -38,6 +39,7 @@ Note:
 - [Container Security: Examining Potential Threats to the Container Environment (2019-05-14)](https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment)
 - [云原生环境渗透工具考察 (2020-06-22)](https://wohin.me/yun-yuan-sheng-huan-jing-shen-tou-xiang-guan-gong-ju-kao-cha/)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录 (2021-03-02)](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
+- [靶机实验：综合场景下的渗透实战](https://github.com/brant-ruan/cloud-native-security-book/blob/main/appendix/靶机实验：综合场景下的渗透实战.pdf)
 
 ### 1.2 Kubernetes
 
@@ -68,8 +70,11 @@ Note:
 - [Understanding about CVE-2017–1002101 on kubernetes (2018-03-19)](https://makocchi.medium.com/kubernetes-cve-2017-1002101-en-5a30bf701a3e)
     - [Fixing the Subpath Volume Vulnerability in Kubernetes (2018-04-04)](https://kubernetes.io/blog/2018/04/04/fixing-subpath-volume-vulnerability/)
     - [ExP: CVE-2017-1002101 by bgeesaman](https://github.com/bgeesaman/subpath-exploit)
+    - [CVE-2017-1002101：突破隔离访问宿主机文件系统](https://github.com/brant-ruan/cloud-native-security-book/blob/main/appendix/CVE-2017-1002101：突破隔离访问宿主机文件系统.pdf)
+    - [逃逸风云再起：从CVE-2017-1002101到CVE-2021-25741 (2021-10-12)](https://mp.weixin.qq.com/s/RqaWvzXZR6sLPzBI8ljoxg)
 - [The Story of the First Kubernetes Critical CVE (CVE-2018-1002105, 2018-12-04)](https://rancher.com/blog/2018/2018-12-04-k8s-cve/)
     - [CVE-2018-1002105（k8s特权提升）原理与利用分析报告 (2018-12-08)](https://xz.aliyun.com/t/3542)
+- [CVE-2018-1002103：远程代码执行与虚拟机逃逸](https://github.com/brant-ruan/cloud-native-security-book/blob/main/appendix/CVE-2018-1002103：远程代码执行与虚拟机逃逸.pdf)
 - [Kubernetes hostPort allow services traffic interception when using kubeproxy IPVS  (CVE-2019-9946, 2019-03-28)](http://blog.champtar.fr/CVE-2019-9946/)
 - [Non-Root Containers, Kubernetes CVE-2019-11245 and Why You Should Care, (2019-08-28)](https://unit42.paloaltonetworks.com/non-root-containers-kubernetes-cve-2019-11245-care/)
 - [When it’s not only about a Kubernetes CVE... (CVE-2020-8555, 2020-06-03)](https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8)
@@ -131,7 +136,6 @@ Note:
     - [CVE-2021-22555：Linux 内核提权导致 Docker 逃逸 (2021-07-23)](https://mp.weixin.qq.com/s?__biz=MzI1NDQxMDE0NQ==&mid=2247484015&idx=1&sn=74755a7113cd13655239d885c34562f0)
 - [Container Escape in 2021 (HITB 2021)](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf)
 - [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances (2021-09-09)](https://unit42.paloaltonetworks.com/azure-container-instances/)
-- [逃逸风云再起：从CVE-2017-1002101到CVE-2021-25741 (2021-10-12)](https://mp.weixin.qq.com/s/RqaWvzXZR6sLPzBI8ljoxg)
 
 ### 1.4 Serverless
 
