@@ -21,6 +21,7 @@ Note:
     - [Container Security: Fundamental Technology Concepts that Protect Containerized Applications (Book, 2020-04-01)](https://sg1lib.org/book/5534739/4f0c10)
 - [MITRE ATT&CK framework for container runtime security with Falco. (2019-05-10)](https://sysdig.com/blog/mitre-attck-framework-for-container-runtime-security-with-sysdig-falco/)
 - [Containers' Security: Issues, Challenges, and Road Ahead (IEEE Access 2019)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8693491)
+- [企业应用容器化的攻与防 (JINQI-CON 2019)](https://github.com/neargle/slidefiles/blob/main/2019%20jingqicon%20-%20Red%20vs%20Blue%20for%20containerized%20application.pdf)
 - [Threat matrix for Kubernetes (Microsoft, 2020-04-02)](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
     - [Secure containerized environments with updated threat matrix for Kubernetes (2021-03-23)](https://www.microsoft.com/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
 - [国内首个云上容器ATT&CK攻防矩阵发布，阿里云助力企业容器化安全落地 (2020-06-18)](https://developer.aliyun.com/article/765449)
