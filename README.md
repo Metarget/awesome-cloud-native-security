@@ -64,6 +64,7 @@ Note:
 - [etcd未授权访问的风险及修复方案详解 (2021-04-09)](https://www.anquanke.com/post/id/236831)
 - [New Attacks on Kubernetes via Misconfigured Argo Workflows (2021-07-20)](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
 - [Don’t let Prometheus Steal your Fire (2021-10-12))](https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/)
+- [Attack Cloud Native Kubernetes (HITB 2021)](https://github.com/neargle/slidefiles/blob/main/2021%20HITB%20-%20Attack%20Cloud%20Native%20Kubernetes.pdf)
 
 #### 1.2.2 Vulnerabilities and Exploits
 
@@ -155,6 +156,7 @@ Note:
 
 - [A Survey of Istio’s Network Security Features (2020-03-04)](https://research.nccgroup.com/2020/03/04/a-survey-of-istios-network-security-features/)
 - [Istio访问授权再曝高危漏洞 (CVE-2020-8595, 2020-03-13)](https://mp.weixin.qq.com/s/IHJAsO2SktNXqQGNLuTYUQ)
+- [Attack in a Service Mesh (CIS 2020)](https://github.com/neargle/slidefiles/blob/main/2020%20CIS%20-%20Attack%20in%20a%20Service%20Mesh%20-%20Public.pptx.pdf)
 - [Istio Security Assessment (2021-07-13 (disclosed), 2020-08-06 (accomplished) by Istio with NCC Group)](https://istio.io/latest/blog/2021/ncc-security-assessment/NCC_Group_Google_GOIST2005_Report_2020-08-06_v1.1.pdf)
 
 ### 1.7 API Gateway
@@ -177,6 +179,8 @@ Note:
 - [kubesploit](https://github.com/cyberark/kubesploit)
 - [kubeletmein - Security testing tool for Kubernetes, abusing kubelet credentials on public cloud providers](https://github.com/4ARMED/kubeletmein)
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
+    - [Zero Dependency Container Penetration Toolkit (Blackhat 2021)](https://github.com/neargle/slidefiles/blob/main/2021%20BlackHat%20ASIA%20Arsenal%20-%20Zero%20Dependency%20Container%20Penetration%20Toolkit.pdf)
+    - [CDK: Also a Awesome BugBounty Tool for Cloud Platform (WHC 2021)](https://github.com/neargle/slidefiles/blob/main/2021%20WHC2021%20CDK-Also-a-Awesome-BugBounty-Tool-for-Cloud-Platform.pptx.pdf)
 - [Metarget - framework providing automatic constructions of vulnerable infrastructures](https://github.com/brant-ruan/metarget)
 - [red-kube - Red Team K8S Adversary Emulation Based on kubectl](https://github.com/lightspin-tech/red-kube)
 - [whoc - A container image that extracts the underlying container runtime](https://github.com/twistlock/whoc)
