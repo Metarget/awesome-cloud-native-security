@@ -26,6 +26,7 @@ Note:
     - [MITRE ATT&CK Containers Matrix (2021-04-29)](https://attack.mitre.org/matrices/enterprise/containers/)
     - [最佳实践：发布国内首个K8S ATT&CK攻防矩阵 (青藤, 2021-08-25)](https://mp.weixin.qq.com/s/-FTJRl1ZK2Etgq7KO17r7w)
     - [2021西部云安全峰会召开：“云安全优才计划”发布，腾讯云安全攻防矩阵亮相 (2021-09-26)](https://mp.weixin.qq.com/s/IBTE_s-8ZO8Ac3m040-eTA)
+    - [云原生安全：基于容器ATT&CK矩阵模拟攻防对抗的思考 (2021-11-01)](https://www.freebuf.com/articles/security-management/303010.html)
 - [Containers' Security: Issues, Challenges, and Road Ahead (IEEE Access 2019)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8693491)
 - [企业应用容器化的攻与防 (JINQI-CON 2019)](https://github.com/neargle/slidefiles/blob/main/2019%20jingqicon%20-%20Red%20vs%20Blue%20for%20containerized%20application.pdf)
 - [Sysdig 2021 Container Security and Usage Report (2021-01-01)](https://sysdig.com/wp-content/uploads/2021-container-security-and-usage-report.pdf)
