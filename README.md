@@ -145,6 +145,11 @@ Note:
 - [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances (2021-09-09)](https://unit42.paloaltonetworks.com/azure-container-instances/)
 - [云原生安全攻防｜使用eBPF逃逸容器技术分析与实践 (2021-11-03)](https://mp.weixin.qq.com/s/Psqy3X3VdUPga7f2cnct1g)
 
+### 1.3.3 Container DoS
+
+- [Docker组件间标准输入输出复制的DoS攻击分析 (网络信息安全学报 2020)](http://www.infocomm-journal.com/cjnis/CN/10.11959/j.issn.2096-109x.2020074)
+- [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization (CCS 2021)](https://wenboshen.org/assets/papers/LogicalDoS.pdf)
+
 ### 1.4 Serverless
 
 - [Hacking Serverless Runtimes (Black Hat 2017)](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
