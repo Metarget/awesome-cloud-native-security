@@ -32,6 +32,7 @@ Note:
 - [Sysdig 2021 Container Security and Usage Report (2021-01-01)](https://sysdig.com/wp-content/uploads/2021-container-security-and-usage-report.pdf)
 - [CNCF Cloud Native Security Whitepaper (2021-02-17)](https://github.com/cncf/tag-security/blob/017e77ff380e303d80adb78e60a1f262e80df0e8/security-whitepaper/cloud-native-security-whitepaper.md)
 - [Metarget：云原生攻防靶场开源啦！ (2021-05-10)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247489415&idx=1&sn=4aea7b7ecff51710c79037ab07a889bc)
+- [컨테이너에서 버그 찾기 어디까지 해봤니 (How to Find Container Platform Bug, CodeEngn 2021)](https://github.com/codeengn/codeengn-conference/blob/master/17/2021%20CodeEngn%20Conference%2017%2C%20컨테이너에서%20버그%20찾기%20어디까지%20해봤니%20%5B김우석%5D.pdf)
 - [Kubernetes Hardening Guidance (by NSA & CISA, 2021-08-03)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 - [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
 - [《云原生安全：攻防实践与体系构建》](https://github.com/brant-ruan/cloud-native-security-book)
