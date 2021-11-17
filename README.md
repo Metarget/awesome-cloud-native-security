@@ -122,6 +122,7 @@ Note:
     - [ExP: CVE-2019-5736 by Frichetten](https://github.com/Frichetten/CVE-2019-5736-PoC)
     - [Escaping a Broken Container - 'namespaces' from 35C3 CTF (2019-04-15)](http://blog.perfect.blue/namespaces-35c3ctf)
     - [容器逃逸成真：从CTF到CVE-2019-5736 (2019-11-20)](https://wohin.me/rong-qi-tao-yi-cheng-zhen-cong-ctfjie-ti-dao-cve-2019-5736lou-dong-wa-jue-fen-xi/)
+- [An Exercise in Practical Container Escapology (2019-03-07)](https://capsule8.com/blog/practical-container-escape-exercise/)
 - [Felix Wilhelm's Twitter on the Escape Technique utilizing release_agent (2019-07-17)](https://twitter.com/_fel1x/status/1151487051986087936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1151487053370187776%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fajxchapman.github.io%2Fcontainers%2F2020%2F11%2F19%2Fprivileged-container-escape.html)
     - [Understanding Docker container escapes (2019-07-19)](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
     - [Privileged Container Escape - Control Groups release_agent (2020-11-19)](https://ajxchapman.github.io/containers/2020/11/19/privileged-container-escape.html)
@@ -220,6 +221,7 @@ Note:
 - [探索Sysdig Falco：容器环境下的异常行为检测工具 (2019-09-25)](https://wohin.me/tan-suo-sysdig-falco-rong-qi-huan-jing-xia-de-yi-chang-xing-wei-jian-ce-gong-ju/)
 - [云原生之容器安全实践 (2020-03-12)](https://tech.meituan.com/2020/03/12/cloud-native-security.html)
 - [容器环境相关的内核漏洞缓解技术 (2020-08-31)](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488536&idx=1&sn=fd2fcb732e76b2243f972f7a79be2b19)
+- [Detecting a Container Escape with Cilium and eBPF](https://isovalent.com/blog/post/2021-11-container-escape)
 
 ### 2.4 Secure Container
 
