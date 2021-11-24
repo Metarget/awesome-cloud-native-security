@@ -142,6 +142,7 @@ Note:
 - [【安全干货】Docker CVE-2018-6552 (2021-06-30)](https://mp.weixin.qq.com/s?__biz=Mzg5NjEyMjA5OQ==&mid=2247486707&idx=1&sn=0cd7dea2347f19beb703088947932b4f)
 - [CVE-2021-22555: Turning \x00\x00 into 10000$ (2021-07-07)](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html)
     - [CVE-2021-22555：Linux 内核提权导致 Docker 逃逸 (2021-07-23)](https://mp.weixin.qq.com/s?__biz=MzI1NDQxMDE0NQ==&mid=2247484015&idx=1&sn=74755a7113cd13655239d885c34562f0)
+- [With Friends like eBPF, who needs enemies? (Defcon 29)](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-With-Friends-Like-EBPF-Who-Needs-Enemies.pdf)
 - [Container Escape in 2021 (HITB 2021)](https://conference.hitb.org/hitbsecconf2021sin/materials/D2T2%20-%20Ccntainer%20Escape%20in%202021%20-%20Li%20Qiang.pdf)
     - [Container Escape in 2021 (KCon 2021)](https://github.com/knownsec/KCon/blob/master/2021/Container%20escape%20in%202021.pdf)
 - [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances (2021-09-09)](https://unit42.paloaltonetworks.com/azure-container-instances/)
