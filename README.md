@@ -136,6 +136,7 @@ Note:
 - [容器逃逸技术概览 (2020-02-21)](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
 - [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
     - [Kata Containers逃逸研究 (2020-09-25)](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
+    - [Security advisory for four vulnerabilities in Kata Containers (2020-12-04)](https://bugs.launchpad.net/katacontainers.io/+bug/1863875)
 - [CVE-2020-14386: Privilege Escalation Vulnerability in the Linux kernel (2020-10-09)](https://unit42.paloaltonetworks.com/cve-2020-14386/)
     - [Containing a Real Vulnerability (2020-09-18)](https://gvisor.dev/blog/2020/09/18/containing-a-real-vulnerability/)
 - [host模式容器逃逸漏洞（CVE-2020-15257）技术分析 (2020-12-02)](https://mp.weixin.qq.com/s/WmSaLPnG4o4Co1xRiYCOnQ)
