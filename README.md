@@ -135,6 +135,7 @@ Note:
 - [Original Tweet on CVE-2019-16884 (2019-09-22)](https://twitter.com/adam_iwaniuk/status/1175741830136291328)
 - [CVE-2019-19921: Volume mount race condition with shared mounts (2020-01-01)](https://github.com/opencontainers/runc/issues/2197)
     - [PoC: runc-masked-race.sh](https://gist.github.com/leoluk/82965ad9df58247202aa0e1878439092)
+    - [PATCH RFC 1/1 mount: universally disallow mounting over symlinks (2019-12-30)](https://lore.kernel.org/stable/20191230052036.8765-2-cyphar@cyphar.com/)
 - [容器逃逸技术概览 (2020-02-21)](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
 - [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
     - [Kata Containers逃逸研究 (2020-09-25)](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
