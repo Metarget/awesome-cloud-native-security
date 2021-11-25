@@ -133,6 +133,8 @@ Note:
     - [Understanding Docker container escapes (2019-07-19)](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
     - [Privileged Container Escape - Control Groups release_agent (2020-11-19)](https://ajxchapman.github.io/containers/2020/11/19/privileged-container-escape.html)
 - [Original Tweet on CVE-2019-16884 (2019-09-22)](https://twitter.com/adam_iwaniuk/status/1175741830136291328)
+- [CVE-2019-19921: Volume mount race condition with shared mounts (2020-01-01)](https://github.com/opencontainers/runc/issues/2197)
+    - [PoC: runc-masked-race.sh](https://gist.github.com/leoluk/82965ad9df58247202aa0e1878439092)
 - [容器逃逸技术概览 (2020-02-21)](https://wohin.me/rong-qi-tao-yi-gong-fang-xi-lie-yi-tao-yi-ji-zhu-gai-lan/)
 - [Escaping Virtualized Containers (Black Hat 2020)](https://i.blackhat.com/USA-20/Thursday/us-20-Avrahami-Escaping-Virtualized-Containers.pdf)
     - [Kata Containers逃逸研究 (2020-09-25)](https://mp.weixin.qq.com/s/q4xJtlO6iFpHQginGvVBDQ)
