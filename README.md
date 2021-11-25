@@ -100,6 +100,7 @@ Note:
 - [Abusing Privileged and Unprivileged Linux Containers (2016-06-01)](https://www.nccgroup.com/globalassets/our-research/us/whitepapers/2016/june/container_whitepaper.pdf)
 - [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups (CCS 2019)](http://www.cs.memphis.edu/~xgao1/paper/ccs19.pdf)
     - [Houdini’s Escape: Breaking the Resource Rein of Linux Control Groups (Video)](https://www.youtube.com/watch?v=PPo9sQnJaec)
+- [Bypassing Docker Authz Plugin and Using Docker-Containerd for Privesc (2019-07-11)](https://staaldraad.github.io/post/2019-07-11-bypass-docker-plugin-with-containerd/)
 - [A Methodology for Penetration Testing Docker Systems (Bachelor Theses, 2020-01-17)](https://www.cs.ru.nl/bachelors-theses/2020/Joren_Vrancken___4593847___A_Methodology_for_Penetration_Testing_Docker_Systems.pdf)
     - [针对容器的渗透测试方法 (2020-04-17)](https://mp.weixin.qq.com/s?subscene=19&__biz=MzIyODYzNTU2OA==&mid=2247487590&idx=1&sn=060a8bdf2ddfaff6ceae5cb931cb27ab&chksm=e84fb6b9df383faf1723040a0d6f0300c9517db902ef0010e230d8e802b1dfe9d8b95e6aabbd)
 - [里应外合：借容器root提权 (2020-12-03)](https://wohin.me/li-ying-wai-he-jie-zhu-rong-qi-root/)
