@@ -68,6 +68,7 @@ Note:
 - [Metadata service MITM allows root privilege escalation (EKS / GKE) (2021-02-28)](https://blog.champtar.fr/Metadata_MITM_root_EKS_GKE/)
 - [etcd未授权访问的风险及修复方案详解 (2021-04-09)](https://www.anquanke.com/post/id/236831)
 - [New Attacks on Kubernetes via Misconfigured Argo Workflows (2021-07-20)](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
+- [Creating Malicious Admission Controllers (2021-08-09)](https://blog.rewanthtammana.com/creating-malicious-admission-controllers)
 - [Don’t let Prometheus Steal your Fire (2021-10-12))](https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/)
 - [Attack Cloud Native Kubernetes (HITB 2021)](https://github.com/neargle/slidefiles/blob/main/2021%20HITB%20-%20Attack%20Cloud%20Native%20Kubernetes.pdf)
 
