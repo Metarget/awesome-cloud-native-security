@@ -72,6 +72,7 @@ Note:
 - [Creating Malicious Admission Controllers (2021-08-09)](https://blog.rewanthtammana.com/creating-malicious-admission-controllers)
 - [Don’t let Prometheus Steal your Fire (2021-10-12))](https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/)
 - [Attack Cloud Native Kubernetes (HITB 2021)](https://github.com/neargle/slidefiles/blob/main/2021%20HITB%20-%20Attack%20Cloud%20Native%20Kubernetes.pdf)
+- [Metasploit in Kubernetes (2021-11-04)](https://github.com/rapid7/metasploit-framework/tree/master/kubernetes)
 
 #### 1.2.2 Vulnerabilities and Exploits
 
