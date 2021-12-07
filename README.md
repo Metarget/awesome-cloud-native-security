@@ -161,6 +161,8 @@ Note:
     - [Container Escape in 2021 (KCon 2021)](https://github.com/knownsec/KCon/blob/master/2021/Container%20escape%20in%202021.pdf)
 - [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances (2021-09-09)](https://unit42.paloaltonetworks.com/azure-container-instances/)
 - [云原生安全攻防｜使用eBPF逃逸容器技术分析与实践 (2021-11-03)](https://mp.weixin.qq.com/s/Psqy3X3VdUPga7f2cnct1g)
+- [Overflow in netlink bytemsg length field allows attacker to override netlink-based container configuration (CVE-2021-43784, 2021-12-06)](https://github.com/opencontainers/runc/security/advisories/GHSA-v95c-p5hm-xq8f)
+    - [Issue 2241: runc/libcontainer: insecure handling of bind mount sources](https://bugs.chromium.org/p/project-zero/issues/detail?id=2241)
 
 #### 1.3.3 Container DoS
 
