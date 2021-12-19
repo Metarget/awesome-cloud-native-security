@@ -47,7 +47,7 @@ Note:
 - [云原生环境渗透工具考察 (2020-06-22)](https://wohin.me/yun-yuan-sheng-huan-jing-shen-tou-xiang-guan-gong-ju-kao-cha/)
 - [红蓝对抗中的云原生漏洞挖掘及利用实录 (2021-03-02)](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)
 - [靶机实验：综合场景下的渗透实战](https://github.com/brant-ruan/cloud-native-security-book/blob/main/appendix/靶机实验：综合场景下的渗透实战.pdf)
-- [Exploit Symlink for Fun and Profit: from native to Cloud Native (2021-12-08)](https://github.com/brant-ruan/slides-and-papers/blob/master/TechWorld创新沙龙-202112-symlink.pdf)
+- [Exploit Symlink for Fun and Profit: from Native to Cloud Native (2021-12-08)](https://github.com/brant-ruan/slides-and-papers/blob/master/TechWorld创新沙龙-202112-symlink.pdf)
 
 ### 1.2 Kubernetes
 
