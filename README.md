@@ -73,6 +73,7 @@ Note:
 - [Don’t let Prometheus Steal your Fire (2021-10-12))](https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/)
 - [Attack Cloud Native Kubernetes (HITB 2021)](https://github.com/neargle/slidefiles/blob/main/2021%20HITB%20-%20Attack%20Cloud%20Native%20Kubernetes.pdf)
 - [Metasploit in Kubernetes (2021-11-04)](https://github.com/rapid7/metasploit-framework/tree/master/kubernetes)
+- [【技术推荐】云原生之Kubernetes安全 (2021-12-18)](https://mp.weixin.qq.com/s?__biz=MzI4NjE2NjgxMQ==&mid=2650258483&idx=1&sn=d05b33fa3112b1c0351dee2fca986ae8&chksm=f3e20647c4958f51a10688de8413ae142793a0f9b7ebdc07c537b5c72cf71c026e1e865de268#rd)
 
 #### 1.2.2 Vulnerabilities and Exploits
 
