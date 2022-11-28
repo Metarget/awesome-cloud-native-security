@@ -13,6 +13,7 @@ Note:
 
 ## 0 General
 
+- [OWASP Cloud-Native Application Security Top 10](https://owasp.org/www-project-cloud-native-application-security-top-10/)
 - [Hacking and Hardening Kubernetes Clusters by Example (KubeCon 2017)](https://github.com/sbueringer/kubecon-slides/blob/master/slides/2017-kubecon-na/Hacking%20and%20Hardening%20Kubernetes%20Clusters%20by%20Example%20%5BI%5D%20-%20Brad%20Geesaman%2C%20Symantec%20-%20Hacking%20and%20Hardening%20Kubernetes%20By%20Example%20v2.pdf)
 - [2018绿盟科技容器安全技术报告 (2018-11)](https://www.nsfocus.com.cn/upload/contents/2018/11/20181109100414_79051.pdf)
     - [2020绿盟科技云原生安全技术报告 (2021-01)](http://blog.nsfocus.net/wp-content/uploads/2021/01/Technical-Report-of-Cloud-Native-Security.pdf)
