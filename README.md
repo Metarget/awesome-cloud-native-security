@@ -274,6 +274,7 @@ Note:
 - [Elkeid - Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture](https://github.com/bytedance/Elkeid)
 - [kubescape - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA](https://github.com/armosec/kubescape)
 - [veinmind-tools](https://github.com/chaitin/veinmind-tools)
+- [cnspec - cloud-native security and policy project](https://cnspec.io)
 
 ## 3 Incidents
 
