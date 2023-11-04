@@ -64,6 +64,9 @@ Note:
     - [Advanced Persistence Threats: The Future of Kubernetes Attacks (Video)](https://www.youtube.com/watch?v=CH7S5rE3j8w)
 - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions (RSA 2020)](https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/18100/2020_USA20_DSO-W01_01_Compromising%20Kubernetes%20Cluster%20by%20Exploiting%20RBAC%20Permissions.pdf)
     - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions (Video)](https://www.youtube.com/watch?v=1LMo0CftVC4)
+- [Kubernetes Privilege Escalation: Excessive Permissions in Popular Platforms](https://www.paloaltonetworks.com/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms)
+    - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin? (Video)](https://www.youtube.com/watch?v=oc1tq_r6VNM)
+    - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin? (PPT)](https://i.blackhat.com/USA-22/Thursday/US-22-Avrahami-Kubernetes-Privilege-Escalation-Container-Escape-Cluster-Admin.pdf)
 - [Command and KubeCTL: Real-world Kubernetes Security for Pentesters (Shmoocon 2020)](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g6d20dd40e5_0_1816)
     - [Deep Dive into Real-World Kubernetes Threats (2020-02-12)](https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/)
 - [Using Kubelet Client to Attack the Kubernetes Cluster (2020-08-19)](https://www.cyberark.com/resources/threat-research-blog/using-kubelet-client-to-attack-the-kubernetes-cluster)
@@ -104,6 +107,8 @@ Note:
     - [ExP: CVE-2021-25735 by darryk10](https://github.com/darryk10/CVE-2021-25735)
 - [Detecting and Mitigating CVE-2021-25737: EndpointSlice validation enables host network hijack (2021-05-24)](https://sysdig.com/blog/cve-2021-25737-endpointslice/)
 - [浅谈云上攻防——CVE-2020-8562漏洞为k8s带来的安全挑战 (2021-10-25)](https://mp.weixin.qq.com/s/HCBL7SND_-IZqeqX_vchug)
+- [cr8escape: New Vulnerability in CRI-O Container Engine Discovered by CrowdStrike (CVE-2022-0811)](https://www.crowdstrike.com/blog/cr8escape-new-vulnerability-discovered-in-cri-o-container-engine-cve-2022-0811/)
+    - [谁动了我的core\_pattern？CVE-2022-0811容器逃逸漏洞分析](https://cloud.tencent.com/developer/article/1981066)
 
 ### 1.3 Container
 
@@ -167,6 +172,8 @@ Note:
 - [云原生安全攻防｜使用eBPF逃逸容器技术分析与实践 (2021-11-03)](https://mp.weixin.qq.com/s/Psqy3X3VdUPga7f2cnct1g)
 - [Overflow in netlink bytemsg length field allows attacker to override netlink-based container configuration (CVE-2021-43784, 2021-12-06)](https://github.com/opencontainers/runc/security/advisories/GHSA-v95c-p5hm-xq8f)
     - [Issue 2241: runc/libcontainer: insecure handling of bind mount sources](https://bugs.chromium.org/p/project-zero/issues/detail?id=2241)
+- [Podman Time-of-check Time-of-use (TOCTOU) Race Condition (CVE-2023-0778)](https://github.com/advisories/GHSA-qwqv-rqgf-8qh8)
+- [Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding](https://www.usenix.org/system/files/usenixsecurity23-xiao-jietao.pdf)
 
 #### 1.3.3 Container DoS
 
